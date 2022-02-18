@@ -1,0 +1,204 @@
+>DM_Acanthella_acuta
+nad5 trnM(cau) nad1 trnL(uaa) trnF(gaa) rns trnG(ucc) trnV(uac) trnY(gua) trnC(gca) rnl trnR(ucg) nad4L nad3 trnE(uuc) nad6 cox2 trnK(uuu) atp8 atp6 cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) nad4 trnH(gug) cox1
+
+>DM_Adreus_fascicularis
+rnl trnE(uuc) nad6 trnY(gua) trnI(cau) cox2 trnL(uaa) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnN(guu) cob trnS(gcu) trnI(gau) trnQ(uug) trnW(uca) atp9 nad4 trnH(gug) trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) nad1 trnP(ugg) trnL(uag) trnC(gca) trnT(ugu) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Agelas_schmidti
+rnl cox2 atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) cob trnT(ugu) atp9 trnS(gcu) trnK(uuu) trnN(guu) trnM(cau)e trnH(gug) trnP(ugg) nad4 trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnA(ugc) trnC(gca) nad1 trnL(uaa) trnL(uag) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnI(gau) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Astrosclera_willeyana
+rnl cox2 atp8 atp6 trnR(ucu) cox3 trnW(uca) cob trnT(ugu) atp9 trnS(gcu) trnK(uuu) trnN(guu) trnM(cau)e trnL(uaa) trnQ(uug) trnL(uag) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnI(gau) trnH(gug) trnP(ugg) nad4 trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnA(ugc) trnC(gca) nad1 trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Axinella_infundibuliformis
+rnl trnR(ucg) nad4L cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 trnW(uca) trnD(guc) trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Axinella_polypoides
+rnl trnR(ucg) nad4L cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 trnW(uca) trnD(guc) trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Biemna_caribea
+rnl trnR(ucg) nad4L cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Chondropsidae_MO1046
+rnl trnI(cau) trnY(gua) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnR(ucg) trnD(guc) nad3 nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) cox2 trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Cinachyrella_kuekanthali
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnI(cau) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnM(cau) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Clathria_curacaoensis
+rnl trnI(cau) trnY(gua) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnR(ucg) trnE(uuc) nad6 nad3 nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) cox2 trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Cliona_varians
+rnl trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) cob trnT(ugu) atp9 trnP(ugg) nad4 trnH(gug) trnR(ucg) nad4L trnL(uag) trnY(gua) cox1 trnV(uac) trnC(gca) trnS(gcu) nad1 trnI(gau) trnS(uga) trnM(cau) trnL(uaa) nad2 nad5 trnE(uuc) nad6 trnD(guc) nad3 trnM(cau)e trnA(ugc) trnF(gaa) rns trnG(ucc)
+
+>DM_Clionaopsis_sp
+rnl trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnM(cau)e trnR(ucg) nad4L trnY(gua) cox1 trnV(uac) trnC(gca) trnS(gcu) nad1 trnS(uga) trnI(gau) trnM(cau) trnL(uaa) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc)
+
+>DM_Corvomeyenia_sp
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Crambe_crambe
+rnl trnI(cau) trnY(gua) atp8 atp6 trnR(ucg) trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnP(ugg) nad4 trnK(uuu) trnL(uaa) trnI(gau) trnM(cau)e trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 nad4L cox1 trnS(uga) nad1 trnM(cau) nad2 nad5 trnA(ugc) cox2 trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Crella_elegans
+rnl trnI(cau) trnY(gua) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) cox2 trnF(gaa) rns trnG(ucc) trnR(ucg) trnV(uac)
+
+>DM_Cymbaxinella_corrugata
+rnl cox2 trnC(gca) trnN(guu) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) trnL(uaa) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L trnA(ugc) cox1 trnD(guc) trnI(gau) trnS(uga) nad1 trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnL(uag) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Dercitus_luteus
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnI(cau) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnM(cau) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Dictyonella_marsilii
+rnl trnR(ucg) nad4L nad3 trnE(uuc) nad6 cox2 trnK(uuu) atp8 atp6 cox3 trnQ(uug) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) trnR(ucu) trnI(cau) nad4 trnH(gug) cox1 trnS(uga) trnW(uca) trnN(guu) nad1 trnD(guc) trnY(gua) trnL(uaa) trnI(gau) trnC(gca) trnA(ugc) trnM(cau) nad2 nad5 trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Dictyonellidae_p0911
+rnl trnR(ucg) nad4L nad3 trnE(uuc) nad6 cox2 trnK(uuu) atp8 atp6 cox3 trnQ(uug) trnW(uca) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnA(ugc) nad4 trnH(gug) cox1 trnS(uga) trnR(ucu) trnN(guu) trnC(gca) nad1 trnD(guc) trnY(gua) trnP(ugg) trnL(uaa) trnI(gau) trnI(cau) trnM(cau) nad2 nad5 trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Diplastrella_bistellata
+rnl trnS(uga) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnM(cau)e trnR(ucg) nad4L trnY(gua) cox1 trnV(uac) trnC(gca) trnS(gcu) nad1 trnI(gau) trnM(cau) trnL(uaa) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc)
+
+>DM_Ectyoplasia_ferox
+rnl trnR(ucg) nad4L cox2 trnK(uuu) atp8 atp6 cox3 trnQ(uug) trnW(uca) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) trnN(guu) nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 trnR(ucu) trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnD(guc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Ephydatia_fluviatilis
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Ephydatia_muelleri
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Eunapius_subterraneus
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Geodia_neptuni
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnI(cau) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnM(cau) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Halichondria_okadai_NC037391
+rnl trnY(gua) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnL(uag) trnW(uca) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Halichondria_panicea
+rnl trnY(gua) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Heteroxia_sp_nov
+rnl trnR(ucg) nad4L cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 trnD(guc) trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Hymedesmia_sp_MO1058
+rnl trnI(cau) trnY(gua) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) cox2 trnF(gaa) rns trnG(ucc) trnR(ucg) trnV(uac)
+
+>DM_Hymeniacidon_perlevis
+rnl trnY(gua) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Hymeniacidon_sinapium
+rnl trnY(gua) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Iotrochota_birotulata
+rnl trnI(cau) trnR(ucg) trnY(gua) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) cox2 trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Leiodermatium_sp
+rnl cox2 trnK(uuu) atp8 atp6 cox3 trnQ(uug) trnW(uca) trnL(uag) cob trnT(ugu) trnR(ucu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnI(cau) trnV(uac) trnN(guu) trnY(gua) trnM(cau) trnL(uaa) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnI(gau)
+
+>DM_Lissodendoryx_colombiensis
+rnl trnI(cau) trnY(gua) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) trnS(gcu) trnR(ucg) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) cox2 trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Lubomirskia_baicalensis
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Microscleroderma_sp
+rnl cox2 trnK(uuu) atp8 atp6 cox3 trnQ(uug) trnW(uca) trnL(uag) cob trnT(ugu) trnR(ucu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnI(cau) trnV(uac) trnN(guu) trnY(gua) trnM(cau) trnL(uaa) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnI(gau)
+
+>DM_Myceliospongia_araneosa
+rnl cox2 trnK(uuu) atp8 atp6 cox3 trnQ(uug) trnW(uca) trnL(uag) cob trnR(ucu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnI(cau) trnV(uac) trnN(guu) trnY(gua) trnM(cau) trnL(uaa) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnI(gau) trnT(ugu)
+
+>DM_Myxillina_cv2473337
+rnl trnI(cau) trnY(gua) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) nad6 trnD(guc) nad3 nad4L cox1 trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) cox2 trnF(gaa) rns trnG(ucc) trnR(ucg) trnV(uac)
+
+>DM_Negombata_magnifica
+rnl trnI(cau) trnY(gua) trnK(uuu) atp8 atp6 trnR(ucu) trnR(ucg) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) cox2 trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Neofibularia_nolitangere
+rnl trnR(ucg) nad4L cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Neophrissospongia_sp.
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnI(cau) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnM(cau) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Petromica_sp
+rnl nad4L trnR(ucg) trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnM(cau)e nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob atp9 trnS(gcu) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Phakellia_ventilabrum
+rnl trnR(ucg) nad4L trnE(uuc) nad6 cox2 nad3 trnK(uuu) atp8 atp6 cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) nad4 trnH(gug) cox1 trnS(uga) trnR(ucu) trnP(ugg) trnA(ugc) trnC(gca) nad1 trnD(guc) trnL(uaa) trnI(gau) trnI(cau) trnM(cau) nad2 nad5 trnM(cau)e trnY(gua) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Phorbas_amaranthus
+rnl trnI(cau) trnY(gua) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 nad4L cox1 trnS(uga) trnA(ugc) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnC(gca) cox2 trnF(gaa) rns trnG(ucc) trnR(ucg) trnV(uac)
+
+>DM_Placospongia_intermedia
+rnl trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnM(cau)e trnR(ucg) nad4L trnY(gua) cox1 trnV(uac) trnC(gca) trnS(gcu) nad1 trnS(uga) trnI(gau) trnM(cau) trnL(uaa) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc)
+
+>DM_Plenaster_craigi
+rnl trnR(ucg) nad4L trnN(guu) trnS(uga) trnG(ucc) trnL(uag) trnC(gca) trnQ(uug) trnT(ugu) trnW(uca) trnH(gug) trnR(ucu) cox2 atp8 atp6 cox3 cob atp9 trnS(gcu) nad1 trnL(uaa) trnY(gua) trnM(cau) nad2 trnP(ugg) nad4 trnE(uuc) nad6 nad3 trnI(cau) trnD(guc) nad5 trnA(ugc) cox1 trnM(cau)e trnI(gau) trnF(gaa) rns trnV(uac)
+
+>DM_Poecillastra_laminaris
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnI(cau) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnM(cau) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Polymastia_littoralis
+rnl trnY(gua) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Polymastia_tenax
+rnl trnY(gua) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Ptilocaulis_walpersi
+rnl trnR(ucg) nad4L cox2 trnK(uuu) atp8 atp6 cox3 trnQ(uug) trnW(uca) trnL(uag) cob trnR(ucu) atp9 trnS(gcu) trnP(ugg) trnN(guu) nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 trnT(ugu) trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnD(guc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Raspaciona_aculeata
+rnl trnR(ucg) nad4L cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) trnN(guu) nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnD(guc) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Scopalina_sp1
+trnW(uca) trnN(guu) cob trnT(ugu) atp9 trnD(guc) trnC(gca) nad1 trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnL(uaa) trnA(ugc) trnF(gaa) rns trnG(ucc) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) cox1 trnS(uga) trnS(gcu) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L trnV(uac) rnl cox2
+
+>DM_Spirastrella_cunctatrix
+rnl trnS(uga) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnM(cau)e trnR(ucg) nad4L trnY(gua) cox1 trnV(uac) trnC(gca) trnS(gcu) nad1 trnI(gau) trnM(cau) trnL(uaa) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc)
+
+>DM_Spongilla_lacustris
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Stelletta_fibrosa
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnI(cau) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnM(cau) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Stelligera_stuposa
+rnl trnR(ucg) nad4L cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) trnN(guu) nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 trnS(uga) trnC(gca) trnD(guc) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Stylissa_carteri
+rnl cox2 trnC(gca) trnN(guu) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) trnL(uaa) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L trnA(ugc) cox1 trnD(guc) trnI(gau) trnS(uga) nad1 trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnL(uag) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Suberites_domuncula
+rnl trnY(gua) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Suberites_ficus
+rnl trnY(gua) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Svenzea_flava
+rnl trnR(ucg) nad4L nad3 trnE(uuc) nad6 cox2 trnK(uuu) atp8 atp6 cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 nad4 trnH(gug) cox1 trnS(uga) trnP(ugg) trnR(ucu) trnA(ugc) trnC(gca) nad1 trnD(guc) trnL(uaa) trnI(gau) trnS(gcu) trnI(cau) trnM(cau) nad2 nad5 trnM(cau)e trnY(gua) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Svenzea_zeai
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Tedania_ignis
+rnl trnI(cau) trnY(gua) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnL(uag) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnR(ucg) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) cox2 trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Tethya_actinia
+rnl trnE(uuc) nad6 trnY(gua) trnI(cau) cox2 trnL(uaa) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnN(guu) cob trnS(gcu) trnI(gau) trnQ(uug) trnW(uca) atp9 nad4 trnH(gug) trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) nad1 trnP(ugg) trnL(uag) trnC(gca) trnT(ugu) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Tethya_sp_KU748128
+rnl trnE(uuc) nad6 trnY(gua) trnI(cau) cox2 trnL(uaa) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnN(guu) cob trnS(gcu) trnI(gau) trnQ(uug) trnW(uca) atp9 nad4 trnH(gug) trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) nad1 trnP(ugg) trnL(uag) trnC(gca) trnT(ugu) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Tethya_wilhelma
+rnl trnE(uuc) nad6 trnY(gua) trnI(cau) cox2 trnL(uaa) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnN(guu) cob trnS(gcu) trnI(gau) trnQ(uug) trnW(uca) atp9 nad4 trnH(gug) trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) nad1 trnP(ugg) trnL(uag) trnC(gca) trnT(ugu) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Topsentia_ophiraphidites
+rnl nad4L trnR(ucg) trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>DM_Vetulina_sp
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnN(guu) trnL(uag) cob atp9 trnS(gcu) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnT(ugu) nad2 nad5 trnA(ugc) trnM(cau) trnW(uca) trnI(cau) trnS(uga) trnD(guc) trnC(gca) nad1 trnI(gau) trnY(gua) trnF(gaa) rns trnG(ucc) trnV(uac)
+
+>Halichondria_sp
+rnl trnY(gua) trnI(cau) cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnL(uag) trnW(uca) trnN(guu) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) trnC(gca) nad1 trnL(uaa) trnI(gau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
+
