@@ -1,0 +1,33 @@
+
+RAxML-NG v. 0.8.0 BETA released on 11.01.2019 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called at 03-Mar-2019 11:48:02 as follows:
+
+/usr/local/bin/raxml-ng --support --tree T68.raxml.bestTree --bs-trees T68.raxml.bootstraps --prefix T68_1 --threads 1
+
+Analysis options:
+  run mode: Compute bipartition support (Felsenstein Bootstrap)
+  start tree(s): user
+  random seed: 1551635282
+  SIMD kernels: AVX
+  parallelization: NONE/sequential
+
+Reading reference tree from file: T68.raxml.bestTree
+Reference tree size: 68
+
+Reading bootstrap trees from file: T68.raxml.bootstraps
+Loaded 1000 trees with 68 taxa.
+
+Best ML tree with Felsenstein bootstrap (FBP) support values saved to: /Volumes/research/projects/Porifera/Demospongiae/00_analysis/gene_order/analysis/ME/data/T68_1.raxml.support
+
+Execution log saved to: /Volumes/research/projects/Porifera/Demospongiae/00_analysis/gene_order/analysis/ME/data/T68_1.raxml.log
+
+Analysis started: 03-Mar-2019 11:48:02 / finished: 03-Mar-2019 11:48:03
+
+Elapsed time: 0.915 seconds
+
