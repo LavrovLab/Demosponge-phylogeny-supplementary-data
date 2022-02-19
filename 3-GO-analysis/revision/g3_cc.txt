@@ -1,0 +1,12 @@
+>cloosmt, himplmt, 0905
++rnl +trnR(ucg) +nad4L +cox1 +trnS(uga) +trnD(guc) +trnC(gca) +nad1 +trnL(uaa) +trnI(gau) +trnY(gua) +trnI(cau) +trnM(cau)f +nad2 +nad5 +trnA(ugc) +cox2 +trnK(uuu) +atp8 +atp6 +trnR(ucu) +cox3 +trnQ(uug) +trnW(uca) +trnN(guu) +trnL(uag) +cob +trnT(ugu) +atp9 +trnS(gcu) +trnP(ugg) +nad4 +trnH(gug) +trnE(uuc) +nad6 +nad3 +trnF(gaa) +rns +trnG(ucc) +trnV(uac) 
+>hindimt
++rnl +trnI(cau) +trnP(ugg) +trnL(uag) +trnM(cau)f +nad2 +nad5 +trnA(ugc) +cox2 +trnK(uuu) +atp8 +atp6 +trnR(ucu) +cox3 +trnQ(uug) +trnW(uca) +trnE(uuc) +nad6 +nad3 +trnF(gaa) +rns +trnG(ucc) +nad4L +cox1 +trnS(uga) +trnN(guu) +cob +trnT(ugu) +atp9 +trnS(gcu) +trnP(ugg) +nad4 +nad1 +trnL(caa) +trnI(gau) +trnY(gua) +trnV(uac) 
+>mrs1163mt
++rnl +trnR(ucg) +nad4L +cox1 +trnD(guc) +trnS(uga) +trnC(gca) +nad1 +trnL(uaa) +trnI(gau) +trnY(gua) +trnI(cau) +trnM(cau)f +nad2 +nad5 +trnA(ugc) +cox2 +trnK(uuu) +atp8 +atp6 +trnR(ucu) +cox3 +trnQ(uug) +trnW(uca) +trnN(guu) +trnL(uag) +cob +trnT(ugu) +atp9 +trnS(gcu) +trnP(ugg) +nad4 +trnH(gug) +trnE(uuc) +nad6 +nad3 +trnM(cau)e +trnF(gaa) +rns +trnG(ucc) +trnV(uac) 
+>ndigimt, nerecmt
++rnl +nad4L +trnY(gua) +trnI(cau) +trnM(cau)f +cox2 +atp6 +cox3 +cox1 +nad1 +cob +trnW(uca) +rns +nad5 +nad2 +nad4 +nad6 +nad3 
+>p0945mt
++rnl +trnR(ucg) +nad4L +cox1 +trnS(uga) +nad1 +trnR(ucu) +trnY(gua) +trnI(gau) +trnM(cau)f +nad2 +nad5 +trnA(ugc) +cox2 +atp8 +atp6 +trnT(ugu) +cox3 +trnQ(uug) +trnN(guu) +trnL(uag) +cob +trnS(gcu) +trnP(ugg) +nad4 +trnH(gug) +trnE(uuc) +nad6 +nad3 +trnF(gaa) +rns +trnG(ucc) +trnC(gca) +trnV(uac) 
+>xtestmt
++rnl +trnR(ucg) +nad4L +cox1 +trnX +trnS(uga) +trnD(guc) +trnC(gca) +nad1 +trnL(uaa) +trnI(gau) +trnY(gua) +trnI(cau) +trnM(cau)f +nad2 +nad5 +trnA(ugc) +cox2 +trnK(uuu) +atp8 +atp6 +trnR(ucu) +cox3 +trnQ(uug) +trnW(uca) +trnN(guu) +trnL(uag) +cob +trnT(ugu) +atp9 +trnS(gcu) +trnP(ugg) +nad4 +trnH(gug) +trnE(uuc) +nad6 +nad3 +trnM(cau)e +trnF(gaa) +rns +trnG(ucc) +trnV(uac) 
