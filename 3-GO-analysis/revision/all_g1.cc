@@ -15,12 +15,10 @@
 >DM_Ircinia_strobilina 
 +rnl +atp9 +cox1 +nad1 +cob +nad4 +nad6 +nad3 +nad4L +cox2 +atp8 +atp6 +cox3 +trnW(uca) +trnM(cau) +nad2 +nad5 +rns 
 >DM_Ircinia_sp_LCJ01
-+rnl +atp9 +cox1 +nad1 +cob +nad4 +nad6 +nad3 +nad4L +cox2 +atp8 +atp6 +cox3 +trnW +trnM +nad2 +nad5 +rns 
++rnl +atp9 +cox1 +nad1 +cob +nad4 +nad6 +nad3 +nad4L +cox2 +atp8 +atp6 +cox3 +trnW(uca) +trnM(cau) +nad2 +nad5 +rns 
 >DM_Ircinia_sp_LCJ03
-+rnl +atp9 +cox1 +nad1 +cob +nad4 +nad6 +nad3 +nad4L +cox2 +atp8 +atp6 +cox3 +trnW +trnM +nad2 +nad5 +rns 
++rnl +atp9 +cox1 +nad1 +cob +nad4 +nad6 +nad3 +nad4L +cox2 +atp8 +atp6 +cox3 +trnW(uca) +trnM(cau) +nad2 +nad5 +rns 
 >DM_Hyattella_sinuosa_LCJ04
 +rnl +atp9 +cox1 +nad1 +cob +nad4 +nad6 +nad3 +nad4L +cox2 +atp8 +atp6 +cox3 +trnW(uca) +trnM(cau) +nad2 +nad5 +rns 
->DM_Pleraplysilla_spinifera
-+rnl +atp9 +cox1 +nad1 +cob +nad4 +nad6 +nad3 +nad4L +cox2 +atp8 +atp6 +cox3 +nad2 +nad5 +rns
 >DM_Vaceletia_sp.       
 +rnl +atp9 +cox1 +nad1 +cob +nad4 +nad6 +nad3 +nad4L +cox2 +atp8 +atp6 +cox3 +trnW(uca) +trnM(cau) +nad2 +nad5 +rns 
