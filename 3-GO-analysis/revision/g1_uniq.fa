@@ -1,0 +1,9 @@
+>DM_Cacospongia_mycofijiensis
+rnl atp9 cox1 nad1 cob nad4 nad6 nad3 nad4L cox2 atp8 atp6 cox3 trnW(uca) trnM(cau) nad2 nad5 rns
+
+>DM_Dictyodendrilla_dendyi
+rnl cox1 nad1 cox2 atp8 cob nad6 nad3 nad4L atp6 cox3 nad4 trnM(cau) nad2 trnW(uca) nad5 rns atp9
+
+>DM_Dysidea_etheria______
+rnl atp9 cox1 nad1 cob nad4 nad6 miss nad4L cox2 trnW(uca) atp8 atp6 cox3 nad2 nad5 trnM(cau) rns
+
