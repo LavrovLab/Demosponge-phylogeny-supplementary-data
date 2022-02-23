@@ -1,0 +1,49 @@
+---
+title: "Adjacencies"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load tidiverse
+```{r}
+if (!require("tidyverse")) install.packages("tidyverse")
+library(tidyverse)
+```
+
+## Check working directory
+```{r}
+getwd()
+```
+
+## Read gene adjacencies numbers created by gogo
+
+```{r}
+adjacencies <- read_table(file.choose(), skip=2, col_names = F)
+sp_names <- adjacencies$X2
+adjacencies <- adjacencies %>% select(-(X1:X2))
+names(adjacencies) <- sp_names
+
+# removing the number of adjacencies with itself
+
+for (i in 1:length(adjacencies)) {
+  adjacencies[i,i] <- NA
+}
+```
+
+## Calculate some basic statistics for the number of adjacencies
+
+```{r}
+View(adjacencies)
+# Summary
+sapply(adjacencies, summary, na.rm=TRUE)
+# Mean
+mean(sapply(adjacencies, mean, na.rm=TRUE))
+# Min
+min(sapply(adjacencies, mean, na.rm=TRUE))
+# Max
+max(sapply(adjacencies, mean, na.rm=TRUE))
+```
+
