@@ -1,0 +1,22 @@
+#!/bin/bash 
+ 
+# Copy/paste this job script into a text file and submit with the command: 
+#    sbatch thefilename 
+# job standard output will go to the file slurm-%j.out (where %j is the job ID) 
+ 
+#SBATCH --time=96:00:00   # walltime limit (HH:MM:SS) 
+#SBATCH --nodes=1   # number of nodes 
+#SBATCH --ntasks-per-node=32   # 32 processor core(s) per node  
+#SBATCH --mem=1007G   # maximum memory per node 
+#SBATCH --partition=fat    # fat node(s) 
+#SBATCH --job-name="clock2" 
+#SBATCH --mail-user=dlavrov@iastate.edu   # email address 
+#SBATCH --mail-type=BEGIN 
+#SBATCH --mail-type=END 
+#SBATCH --mail-type=FAIL 
+ 
+# LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE 
+ 
+
+~/bin/phylobayes4.1c/bin/pb -d fasta.nxs -T topology2.tre -r G1_G2.outgroup -cal calib -gtr -bd -sb -rp 540 540 timing2
+

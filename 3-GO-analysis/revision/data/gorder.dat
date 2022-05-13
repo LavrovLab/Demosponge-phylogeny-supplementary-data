@@ -1,0 +1,252 @@
+#NEXUS
+begin data;
+dimensions ntax = 77 nchar = 82;
+FORMAT MISSING=?  TRANSPOSE  SYMBOLS= " A B C D E F G H I J K L M N O P Q R S T U V W X Y Z";
+TAXLABELS
+Acanthella_acuta.go
+Adreus_fascicularis.go
+Agelas_schmidti.go
+Amphimedon_compressa.go
+Astrosclera_willeyana.go
+Axinella_infundibuliformis.go
+Axinella_polypoides.go
+Biemna_caribea.go
+Callyspongia_plicifera.go
+Chalinula_loosanoffi.go
+Chondropsidae_MO1046.go
+Cinachyrella_kuekanthali.go
+Clathria_curacaoensis.go
+Cliona_varians.go
+Clionaopsis_sp.go
+Corvomeyenia_sp.go
+Crambe_crambe.go
+Crella_elegans.go
+Cymbaxinella_corrugata.go
+Dercitus_luteus.go
+Dictyonella_marsilii.go
+Dictyonellidae_p0911.go
+Diplastrella_bistellata.go
+Ectyoplasia_ferox.go
+Ephydatia_fluviatilis.go
+Ephydatia_muelleri.go
+Eunapius_subterraneus.go
+Geodia_neptuni.go
+Halichondria_okadai_NC037391.go
+Halichondria_panicea.go
+Halichondria_sp.go
+Haliclona_implexiformis.go
+Haliclona_manglaris.go
+Haliclona_sp_verrucosa.go
+Heteroxia_sp_nov.go
+Hymedesmia_sp_MO1058.go
+Hymeniacidon_perlevis.go
+Hymeniacidon_sinapium.go
+Iotrochota_birotulata.go
+Leiodermatium_sp.go
+Lissodendoryx_colombiensis.go
+Lubomirskia_baicalensis.go
+Microscleroderma_sp.go
+Myceliospongia_araneosa.go
+Myxillina_cv2473337.go
+Negombata_magnifica.go
+Neofibularia_nolitangere.go
+Neophrissospongia_sp.go
+Petromica_sp.go
+Petrosia_ficiformis.go
+Phakellia_ventilabrum.go
+Phorbas_amaranthus.go
+Placospongia_intermedia.go
+Plenaster_craigi.go
+Poecillastra_laminaris.go
+Polymastia_littoralis.go
+Polymastia_tenax.go
+Ptilocaulis_walpersi.go
+Raspaciona_aculeata.go
+Scopalina_sp1.go
+Spirastrella_cunctatrix.go
+Spongilla_lacustris.go
+Stelletta_fibrosa.go
+Stelligera_stuposa.go
+Stylissa_carteri.go
+Suberites_domuncula.go
+Suberites_ficus.go
+Svenzea_flava.go
+Svenzea_zeai.go
+Tedania_ignis.go
+Tethya_actinia.go
+Tethya_sp_KU748128.go
+Tethya_wilhelma.go
+Topsentia_ophiraphidites.go
+Vetulina_sp.go
+Xestospongia_muta.go
+Xestospongia_testudinaria.go
+;
+STATELABELS
+1 '5-ox3', 
+2 '5-tp6', 
+3 '5-ad4', '5-ad2', '5-ns', '5-ad1', 
+4 '5-tp9', '5-ad4', 
+5 '5-ad5', '5-ad1', '5-ox2', '5-ns', '5-ad4', '5-ad2', 
+6 '5-tp8', '5-ns', '5-ad3', '5-ob', 
+7 '5-ob', '5-ox1', 
+8 '5-ns', '5-ad2', 
+9 '5-ad5', '5-ad4', 
+10 '5-ad6', '5-ad4L', '5-ns', '5-ox1', '5-tp8', '5-ad5', 
+11 '5-ox1', '5-ad3', '5-ad6', '5-ad4L', 
+12 '5-ad3', '5-ox1', '5-ox2', '5-ad1', '5-ad6', '5-nl', 
+13 '5-ad1', '5-ns', '5-ox2', '5-ad4', '5-ad6', '5-ox1', 
+14 '5-ox2', '5-ad3', 
+15 '5-ad4L', '5-ad6', '5-ox2', '5-tp8', 
+16 '5-nl', '5-tp8', 
+17 '5-ns', '5-ad1', '5-ox2', '5-ox1', '5-ad2', '5-ad4', 
+18 '5-nl', '5-ad2', '5-ad1', '5-tp8', '5-ox2', 
+19 '5-ad3', '5-ad1', '5-ad2', '5-ns', '5-ad5', 
+20 '5-ad6', 
+21 '5-ns', 
+22 '5-nl', '5-ox2', '5-tp8', 
+23 '5-ox1', '5-ad3', '5-ad4', '5-ad6', '5-ad4L', '5-ox2', 
+24 '5-ox2', '5-ad2', '5-tp8', '5-ad1', '5-ad4', '5-ad5', 
+25 '5-tp9', '5-ns', '5-ad2', '5-ad4', '5-ad6', '5-ad1', '5-nl', 
+26 '5-tp8', '5-ad4', '5-ad2', '5-ad6', 
+27 '5-ns', '5-tp8', '5-ad2', '5-ad6', '5-ad4', 
+28 '5-ob', '5-ad2', '5-ox1', '5-ns', '5-ox2', 
+29 '5-ad1', '5-ad2', 
+30 '5-ns', '5-ad4', '5-ad2', '5-ad4L', '5-ad6', 
+31 '5-ob', '5-ad4', '5-ad2', '5-tp8', '5-ad1', '5-ox2', 
+32 '5-ad2', '5-ad4', '5-ad1', '5-ns', 
+33 '5-ob', '5-tp9', '5-ad2', '5-ox2', '5-ox1', 
+34 '5-ad4L', '5-ad3', '5-ad6', '5-ox3', '5-nl', '5-tp8', '5-ad1', 
+35 '5-ox3', '5-ad4', '5-ad1', '5-tp9', '5-ox2', 
+36 '5-ad4', '5-tp9', '5-ad2', '5-ad1', '5-ns', 
+37 '5-ad1', '5-ad2', '5-ox2', '5-ad4', 
+38 '5-tp9', '5-ad2', '5-ad4', '5-nl', '5-ox2', '5-ad1', 
+39 '5-nl', '5-ad1', '5-ad2', 
+40 '5-ob', '5-tp9', '5-ad1', '5-ox2', 
+41 '5-nl', '5-ox2', '5-ad2', '5-tp8', '5-ox1', '5-ns', 
+42 '3-tp8', 
+43 '3-ox2', '3-nl', '3-ad3', '3-ns', 
+44 '3-ob', 
+45 '3-ox3', '3-ox2', 
+46 '3-ad4', '3-ad4L', '3-ad3', '3-ad5', '3-ox3', 
+47 '3-ad6', '3-nl', '3-ad5', '3-ad4L', '3-ox1', 
+48 '3-tp6', 
+49 '3-ad5', '3-ox1', '3-ad4L', '3-tp9', 
+50 '3-ad1', '3-tp9', '3-ox1', 
+51 '3-ad4L', '3-ad6', '3-ox2', 
+52 '3-tp9', '3-ad5', '3-ob', '3-ad2', '3-ox1', 
+53 '3-nl', '3-ad3', '3-ad4', 
+54 '3-ox1', '3-ad2', '3-ad3', 
+55 '3-ad3', '3-nl', '3-ad4', '3-ad5', '3-ad4L', 
+56 '3-ns', '3-ad4L', 
+57 '3-ad1', '3-ad5', '3-ad3', '3-ox2', '3-tp9', '3-ox1', 
+58 '3-ad5', '3-ox1', '3-ad3', '3-ad4L', '3-ad1', '3-tp9', 
+59 '3-ns', '3-ad1', '3-ox1', '3-ox2', '3-ad4L', '3-ad5', '3-tp9', 
+60 '3-ad4', '3-ox1', '3-ad6', '3-ad1', '3-ad5', '3-ad4L', '3-ad3', '3-tp9', 
+61 '3-ad3', '3-nl', '3-ad4', '3-ad5', '3-ad4L', 
+62 '3-ad1', '3-ad5', '3-ad3', '3-ox2', '3-tp9', '3-ox1', 
+63 '3-ns', '3-ad4L', 
+64 '3-ad4', '3-tp9', '3-ad5', '3-ad4L', 
+65 '3-ad6', '3-ad1', '3-tp9', '3-nl', '3-ox1', '3-ad3', '3-ad5', 
+66 '3-ob', '3-ad5', '3-ad1', '3-ad4', '3-ox1', '3-ns', 
+67 '3-ox2', '3-tp9', '3-nl', '3-ad4', '3-ad3', '3-ns', 
+68 '3-ad1', '3-ox2', '3-tp9', '3-ad4', '3-ad5', 
+69 '3-ox3', '3-ad1', '3-tp9', '3-ad4L', '3-ad5', 
+70 '3-ad5', '3-ad1', '3-tp9', 
+71 '3-ad5', '3-tp9', '3-ad3', '3-ad4', '3-ox1', 
+72 '3-ox3', '3-tp9', '3-ox2', '3-ox1', '3-ad1', '3-ad4L', 
+73 '3-ad1', '3-tp9', '3-ad5', '3-ob', '3-ox1', '3-ad2', 
+74 '3-ox3', '3-ob', '3-tp9', '3-ad4L', 
+75 '3-nl', '3-ad3', '3-ad6', '3-ad4', '3-tp6', '3-ns', '3-ob', '3-ad4L', '3-tp9', 
+76 '3-tp6', '3-tp9', '3-ox1', '3-ob', '3-ad4L', 
+77 '3-tp9', '3-ob', '3-ox1', '3-ad1', 
+78 '3-ox1', '3-ad1', '3-nl', '3-ad4L', '3-ad5', 
+79 '3-ob', '3-ad1', '3-ns', '3-ad4L', '3-ox1', 
+80 '3-ns', '3-ox1', '3-ad1', '3-ad4L', 
+81 '3-ox3', '3-ob', '3-ox1', '3-ad4L', '3-ox2', '3-ad5', 
+82 '3-ns', '3-ad6', '3-ad1', '3-tp9', '3-nl', '3-ad4L', '3-ad5', 
+;
+MATRIX
+atp6_> A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+atp8_> A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+atp9_> A A A A B A A A A A ? A A A A A A A A A A A A A A A A A A A A A A A A A A A A A ? A A A A A A A C A A A A D A A A A A D A A A A A A A A A A A A A C A A A
+cob_> A A A A A A A A A A B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+cox1_> A B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B C B B B B D B B B B B E B B B B B B B B B B B B B C F B B
+cox2_> A A A A A A A A A A B A B A A A B B A A A A A A A A A A A A A A A A A B A A B A B A A A B B A A A A C B A A A A A A A D A A A A A A A A A B A A A A A A A
+cox3_> A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A A A A A A A A A A A A A A
+nad1_> A B B B A B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B A B B
+nad2_> ? A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A A A A A A A A A A A A A A A A A A A A
+nad3_> A B B C B D D D C C B B B C B B B B B B A A B D B B B B B B B C C C D B B B B B B B B B B B D B D C E B B F B B B D D B B B B D B B B A B B B B B D B C C
+nad4_> A B C C C C C C C C C C C D C C C C C C A A C C C C C C C C C C C C C C C C C C C C C C C C C C C C A C C C C C C C C C C C C C C C C A C C B B B C C C C
+nad4L_> A B B B B C C C B B B B B B B B B B B B A A B C B B B B B B B B B B C B B B B B B B B B B B C B D B E B B C B B B C C F B B B C B B B A B B B B B D B B B
+nad5_> A B B C D B B B C C C B C E B B C C B B B B B B B B B B B B B C C C B C B B C B C B B B C C B B D C B C B F B B B B B B B B B B B B B B B C B B B D A C C
+nad6_> A A B B B B B B B B B B B B B B B B B B A A B B B B B B B B B B B B B B B B B B B B B B B B B B B B A B B B B B B B B B B B B B B B B A B B A A A B B B B
+rnl_> A B C A C A A A A A D C D C C C D D C C A A C A C C C C C C C A A A A D C C D C D C C C D D A C A A A D C A C C C A A C C C C A C C C A C D B B B A C A A
+rns_> A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A A A A A A A A A A A A A A
+trnA_ugc_> ? A B C B A A A C C C A C A A A C C D A E F A A A A A A A A A C C C A C A A C A C A A A C C A A ? C B B A D A A A A A A A A A A D A A B A C A A A F B C C
+trnC_gca_> A B C A C C C C C C C C C C C C ? C D C B C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C E C E C C C C C C C C C C D C C C C C B B B C C C C
+trnD_guc_> ? A ? B ? B B B B B A B ? A A B A A B B C C A D B B B B A A A B B B B A A A A B A B B B A A B B B B C A A E B B B D D B A B B B B A A C B A A A A B B B B
+trnE_uuc_> A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A ? A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+trnF_gaa_> A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+trnG_ucc_> A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A A C A A A A A A A A A A A A A A A A A
+trnH_gug_> A B C D C D D D D D D D D E D D D D D D A A D D D D D D D D D D D D D D D D D D D D D D D D D D D D A D D F D D D D D D D D D D D D D A D D B B B D D D D
+trnI_cau_> ? A B B B B B B B B C D C A A B C C B D E B A B B B B D A A A B B B B C A A C B C B B B C C B D B B B C A F D A A B B B A B D B B A A B B C A A A B D B B
+trnI_gau_> ? A B C D C C C C C C C C C C C E C F C C C C C C C C C C C C C C C C C C C C G C C G G C C C C C C C C C B C C C C C C C C C C F C C C C C A A A C B C C
+trnK_uuu_> A A B A C A A A A A A A A A A A D A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A ? A A A A A A A A A A A A A A A A A A A A A A A
+trnL_uaa_> A B C C C C C C C C C C C C C C D C E C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C A C C C C E C C C C C B B B C ? C C
+trnL_uag_> A B B A B A A A A A A A A C A A A A D A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A E A A A A A ? A A A A D A A A A A B B B A A A A
+trnM_cau_> A B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B A B B
+trnM_caue_> ? A B ? C A A A ? ? ? ? ? A D A E ? ? ? A A D A A A A ? A A A ? ? A A ? A A ? ? ? A ? ? ? ? A ? B A A ? D A ? A A A ? ? D A ? A ? A A A A ? A A A B ? A A
+trnN_guu_> A A B A C A A A A A A A A A A A A A D A E E A B A A A A A A A A A A A A A A A C A A C C A A A A A A A A A F A A A B B A A A A B D A A A A A A A A A A A A
+trnP_ugg_> ? A B B B B B B B B B B B B B B B B B B B A B B B B B B B B B B B B B B B B B B B B B B B B B B ? B C B B B B B B B B ? B B B B B B B C B B A A A D ? B B
+trnQ_uug_> A B A A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A D A A A A A E A A A A A A A A A A B B B A A A A
+trnR_ucg_> A A A A A A A A A A B A C A A A D E A A A A A A A A A A A A A A A A A E A A F A A A A A E D A A G A A E A A A A A A A A A A A A A A A A A A A A A G A A A
+trnR_ucu_> ? A A A A A A A A A A A A A A A A A A A B C A C A A A A A A A A A A A A A A A D A A D D A A A A A A C A A E A A A D A A A A A A A A A C A A A A A A A A A
+trnS_gcu_> A B A A C A A A A A A A A D D A ? A A A A A D A A A A A A A A A A A A A A A A A A A A A A A A A E A A A D D A A A A A A D A A A A A A C A A B B B E A A A
+trnS_uga_> ? A A A A A A A A A A A A B B A A A A A A A C A A A A A A A A A A A A A A A A A A A A A ? A A A A A A A B C A A A A A D C A A A A A A A A A A A A A A A A
+trnT_ugu_> A B A A A A A A A A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A C A A D A A A A ? A A A A E A A A F A A A A A A A A A A A A B B B A B A A
+trnV_uac_> A A A A A A A A A A A A A B B A A A A A A A B A A A A A A A A A A A A A A A A C A A C C A A A A A A A A B A A A A A A A B A A A A A A A A A A A A A A A A
+trnW_uca_> A B A A A C C A A A A A A A A A A A A A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A D A A A A A A A A A A A A A A A A B B B A C A A
+trnY_gua_> A B C C C C C C C C D C D E E C D D C C C C E C C C C C B B B C C C C D B B D C D C C C D D C C C C F D E C C B B C C C E C C C C B B F C D B B B C F C C
+<_atp6  A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+<_atp8  A A A A A A A A A A B A B A A A B B A A A A A A A A A A A A A A A A A B A A B A B A A A B B A A A A C B A A A A A A A D A A A A A A A A A B A A A A A A A
+<_atp9  A A A A A A A A A A ? A A A A A A A A A A A A A A A A A A A A A A A A A A A A A ? A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+<_cob  A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A A A A A A A A A A A A A A
+<_cox1  A B B B B C C C B B B B B B B B B B B B A A B C B B B B B B B B B B C B B B B B B B B B B B C B C B A B B D B B B C C E B B B C B B B A B B B B B C B B B
+<_cox2  A A B C B D D D C C C B C B B B C C B B A A B D B B B B B B B C C C D C B B C B C B B B C C D B E C A C B D B B B D D B B B B D B B B A B C A A A E B C C
+<_cox3  A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A
+<_nad1  A B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B C B B B B D B B B B B D B B B B B B B B B B B B B C A B B
+<_nad2  ? A A A B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A C A A
+<_nad3  A A B B B B B B B B B B B B B B B B B B A A B B B B B B B B B B B B B B B B B B B B B B B B B B B B C B B B B B B B B B B B B B B B B A B B A A A B B B B
+<_nad4  A A A A B A A A A A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A C A A A A A A A B A A A A D A A A A A E A A A A A A A A A A A A A B A A A
+<_nad4L  A B B A B A A A A A B B B C B B B B B B A A B A B B B B B B B A A A A B B B B B B B B B B B A B A A A B B A B B B A A B B B B A B B B A B B B B B A B A A
+<_nad5  A B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B C B B B B B B B B B B B B B B B B B B B B B B B
+<_nad6  A B C C C C C C C C C C C D C C C C C C A A C C C C C C C C C C C C C C C C C C C C C C C C C C C C E C C C C C C C C C C C C C C C C A C C B B B C C C C
+<_rnl  A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A A A A A A A A A A A A A A
+<_rns  A B B C A B B B C C D B D C B B D D B B B B B B B B B B B B B C C C B D B B D B D B B B D D B B E C B D B F B B B B B B B B B B B B B B B D B B B E A C C
+<_trnA_ugc  ? A B A B A A A A A A A A C A A A A D A E F A A A A A A A A A A A A A A A A A A A A A A A A A A ? A B B A A A A A A A A A A A A D A A B A A A A A A A A A
+<_trnC_gca  A B C A C C C C C C C C C C C C ? C D C B C C C C C C C C C C C C C C C C C C C C C C C C C C C E C C F C E C C C C C G C C C C D C C C C C B B B E F C C
+<_trnD_guc  ? A ? B ? B B B B B C B ? C C B C C B B D D C E B B B B C C C B B B B C C C C B C B B B C C B B F B D C C G B B B E E H C B B B B C C D B C A A A F E B B
+<_trnE_uuc  A B C C C C C C C C C C C D C C C C C C A A C C C C C C C C C C C C C C C C C C C C C C ? C C C C C E C C C C C C C C C C C C C C C C A C C B B B C C C C
+<_trnF_gaa  A B B C A B B B C C D B D C B B D D B B B B B B B B B B B B B C C C B D B B D B D B B B D D B B E C B D B F B B B B B B B B B B B B B B B D B B B E A C C
+<_trnG_ucc  A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A B A A A A A A A A A A A A A A A A A A A A A A A
+<_trnH_gug  A A B A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A D A A A A A A A A A A A A A A A A A A A A A A A
+<_trnI_cau  ? A B B C B B B B B D E D D D B D D B E C B D B B B B E D D D B B B B D D D D B D B B B D D B E B B B D D F E D D B B B D B E B B D D B B D A A A B G B B
+<_trnI_gau  ? A B C B C C C C C C C C C C C D C E C C C C C C C C C C C C C C C C C C C C F C C F F C C C C C C C C C E C C C C C C C C C C E C C C C C A A A C C C C
+<_trnK_uuu  A A B A B A A A A A C A C A A A D C A A A A A A A A A A A A A A A A A C A A C A C A A A C C A A A A E C A ? A A A A A F A A A A A A A A A C A A A A A A A
+<_trnL_uaa  A B A A C A A A A A A A A A A A D A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A E A A A A C A A A A A B B B A ? A A
+<_trnL_uag  A B B A C A A A A A A A A D A A A A E A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A D A A A A A ? A A A A E A A A A A B B B A A A A
+<_trnM_cau  A B B B C B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B A B B
+<_trnM_caue  ? A B ? B A A A ? ? ? ? ? C C A D ? ? ? A A C A A A A ? A A A ? ? C A ? A A ? ? ? A ? ? ? ? A ? A C A ? C E ? A A A ? ? C A ? A ? A A A A ? A A A A ? C C
+<_trnN_guu  A A B A B A A A A A A A A A A A A A C A D D A B A A A A A A A A A A A A A A A E A A E E A A A A A A A A A F A A A B B C A A A B C A A A A A A A A A A A A
+<_trnP_ugg  ? A B B C B B B B B D B B B B B B B B B B A B B B B B B B B B B B B B B B B B B D B B B B B B B ? B E B B F B B B B B ? B B B B B B B E B B A A A B ? B B
+<_trnQ_uug  A B A A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A D A A A A A A A A A A A A A A A A B B B A A A A
+<_trnR_ucg  A B B A B A A A A A C B D D B B E F B B A A B A B B B B B B B A A A A F B B A B G B B B F E A B H A A F B A B B B A A B B B B A B B B A B I B B B H B A A
+<_trnR_ucu  ? A A A A A A A A A A A A A A A A A A A B C A C A A A A A A A A A A A A A A A D A A D D A A A A A A C A A E A A A D A A A A A A A A A C A A A A A A A A A
+<_trnS_gcu  A B A A A A A A A A B A A C C A ? A A A A A C A A A A A A A A A A A A A A A A A B A A A A A A A A A A A C A A A A A A C C A A A A A A D A A B B B A A A A
+<_trnS_uga  ? A A A A A A A A A A A A B B A A A A A A A C A A A A A A A A A A A A A A A A A A A A A ? A A A D A A A B D A A A A A A C A A A A A A A A A A A A D E A A
+<_trnT_ugu  A B A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A C A A A A ? A A A A D A A A E A A A A A A A A A A A A B B B A E A A
+<_trnV_uac  A A A A A A A A A A A A A B B A A A A A A A B A A A A A A A A A A A A A A A A C A A C C A A A A A A A A B A A A A A A D B A A A A A A A A A A A A A A A A
+<_trnW_uca  A B A A A C C A A A A A A A A A A A A A C A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A D A A A A A E A A A A A A A A A A B B B A F A A
+<_trnY_gua  A B C C D C C C C C E C E F F C E E C C C C F C C C C C E E E C C C C E E E E C E C C C E E C C C C G E F C C E E C C C F C C C C E E G C E B B B C C C C
+;
+end;

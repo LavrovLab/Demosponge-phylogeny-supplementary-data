@@ -1,0 +1,461 @@
+>NODE_10992_2_3596_cov_146.295HCAER.0.9 
+     1  tt
+;      G-rnl ==> start
+	aattagtataaacgagtggcgagtggaagactaggatattatataaaggacgttaaaa
+    61  acgaaatgtcgtaaaagatatatctgatattcgacaatccttttgagaaatcgtaatgta
+   121  gacactttgataattgaaacatctaaatatcaaggaaaacggaaatcaagcgagatttcg
+   181  ttagtagtggtgagcgaaagcgaatgagggagaggggttattgcatgtggaataaccgtt
+   241  ttatgttattaagagctaatttatatagccaaagaagataacagatctgtagagtcttaa
+   301  taataacaaagtataaagtataattattaaaatacaggtgtaccacacacctaagactaa
+   361  ataatataatataccgatagtaaacaagtactgtgaaggaatgttgaaagagatataagt
+   421  gaaaagagccggaaactcgtctacttacaagtagacagaatctttgtcgtaccttttgta
+   481  taatgggttcacaagaaaaaatttggcaaacttaagttttaaatgtaggtgaagtgaaag
+   541  cgagttttaataaaacgcgataaagtcaaatgatcccgaaaccaagtgatctagtcatgg
+   601  gcagtttgaaacaatttgaaaagagttgtggaggagcgaaccggtgattgtagcaaaaat
+   661  ctcggatgacctgtggttaggggtgaaaggccaatcgaacttggaaatagctggttttct
+   721  gcgaaaactatataagtagtgcgtcatatatattctaactaaataattattgaaaacggt
+   781  aataataattatttaatacacggtaaggctctaaataaatttagggagagtttctttact
+   841  aaattccattaaactatgaatgtgttagaagaaagtttgatagacagacgttggcgagaa
+   901  ggtcaatagtctagtggggaacagccctgatttgaagttaaggtcataaagatgggctaa
+   961  gtgtgaaagaggattaattttaatattagataatgagtaagtaggcttggaaccagccat
+  1021  cttttaaagattacgtaatagttcactcaataaatttaataacctctaaaatttaggtgg
+  1081  cttaagctcattggatcccatactctgaatagaaattatggtagcagaacgtgctgtatt
+  1141  tattagtgtaaacaaaatcagaagtgataatgtgaatatgagtaaaaaacaatgttgaaa
+  1201  tcattgttcatgacctagggtttccaattaaaggatgttcctaattgggttaaacagccc
+  1261  ctaaaaaatatgggtacgtagtaaaataaattacgcttaacgcgtcaggaagaaattatt
+  1321  ccaataaaagggggtaagaccccttttattaatccaaaaagcgggttgtactaaaactga
+  1381  cacaagtgggtcgtaacgtgatggtaaaatttatcttaaggaattcggcaaattgttcct
+  1441  gtaagttcgcgagaagggaagttaataatttgaagagataagattattaattgcaaagaa
+  1501  gagggggtgtcgactgtttaccaaaaacatagcttccagctaatttttagatattggaag
+  1561  tgaggcctgcccaatggttgtatctcaacccaagtaataaatctagttaacttggttaag
+  1621  gacaatttaatggccgcggtaacactgaccgtgataatgtagcgcaatcaatagccaatt
+  1681  aattgttggcaagtatgaatggcttaacgagcgccccgctgtctcaagataaataccaat
+  1741  gaaattgaattcgtagtgaagatgctacgtacaaattgtaagacgagaagaccccattga
+  1801  gctttactgaaggtttatatggtttgggtttaattaatgtgtagattatgtggggaatta
+  1861  agattagtttaatttttatgaaaaaccactcttttaattggaaacaaattaggtcaggcc
+  1921  cacccgctaagtgggcttctttttatgtaaatcggacagtttggttggggcgaccgcctt
+  1981  ctaaagagtaacgaaggtaaacataaggcgaatataatataataaagccagacagcaagg
+  2041  cgtactttcctagctgacacggggctcagtccctgctgtgttatagtgacccgtttgtcg
+  2101  aaagtggaattgctaacgatcaatggataaaagttaccatggggataacagagtaatatc
+  2161  gtctgagagttcatatcgacgacggagtttgctacctcgatgttgaattgtggtatcctg
+  2221  agggtgcagccgctctcaagggttggactgttcgtccattaaaaccatacatgatttgag
+  2281  ttcagaccggcgtgagccaggtcggtttctatctacaatttggtgaggaagcatttgacg
+  2341  tatcaatcttctagtacgaaaggaccgaagaatttgttgtcctctggtgttccaattaaa
+  2401  agttgggtagttacgacagtaaggtggtatcactgaaagcatcttaagtgagaaatctat
+  2461  gttaatctgtgcttccaataagaatgtttgagataaaaacactgatagggccttggtgac
+  2521  gagcttaaggctactaatcatctttaatactagtttaacggcccacctaaaggtgggcca
+  2581  a
+;     G-rnl ==> end
+	cttttttatagttagaaata
+;     G-cox1 ==> start
+  2602  atgagtttatatttaagtcgttgattgttttcaactaatcataaagatattggtactctt
+  2662  tatttagtattcggtgcttttgcaggaatgatcggaactgcgcttagtatgttaattcga
+  2722  ttagaattatctgcgccgggttctatgttaggggatgatcatttgtataatgttatagtt
+  2782  acagcacatgcatttgttatgatctttttcttagtgatgcccgttatgatcggggggttt
+  2842  ggtaattggttagttccgttatatattggggcgccagatatggcatttcctcgattaaat
+  2902  aatataagtttttggttactacctccggctttaacattgttgttggggtctgcttttgta
+  2962  gaacaaggggcaggaactggttgaactgtttatccgccactagcaggtatccaaacacat
+  3022  tctggaggatctgtggatatggctatatttagtcttcatttagcgggtatttcttctatt
+  3082  ttaagttctatgaatttcataacaactattataaatatgagagcgccgggtatgactatg
+  3142  gatagacttccattatttgtatggtctattttaattacaacagtattattattactatct
+  3202  ttaccggttttagctggtgcaattacaatgcttttaacggatcgaaattttaatacaacc
+  3262  ttttttgatccagctggtggtggtgatccgattttatatcaacatctgttttgatttttt
+  3322  gggcatcctgaggtttatgtgttaattttacctgggtttggaatgatttcacaaattgta
+  3382  ccgacattttcagctaaaaaacaaatttttgggtatttaggtatggtttatgccatgttg
+  3442  tctattggatttttaggttttattgtttgagctcatcacatgtttacagtgggtatggat
+  3502  gtggatactcgggcatattttacagcagcaacaatgattattgcagttcctactggtata
+  3562  aaaatatttagttgaattgctacaatatttgggggatctattcgattagatacacctatg
+  3622  ctttgggcagttgggtttatatttttatttactgtggggggattaacgggtattgtcttg
+  3682  gcaaatagttcattggatattgttttacatgatacatattatgttgttgcacattttcat
+  3742  tatgtattatctatgggagcaatatttgcaatatttggaggattttattattgatttggt
+  3802  aaaataacaggatattgttataatgaattatatggacgaattcatttctgattaatgttt
+  3862  gttggagtcaatttaacctttttcccacaacatttcttgggattagcagggtttcctcga
+  3922  cgttattcggactatgccgatagttttgcgggatgaaatcaaataagttctttaggttca
+  3982  ataatctctatagtagctgttatttggtttttatatattatatatgatgcttattgtcaa
+  4042  gaagttaaatttgtaggatgaatggaagagactgggcaccatgtgtctttagagtgaatt
+  4102  caaacatctcctccggcacatcatacttataatgaattaccatatgtttcaagatattct
+  4162  taa
+;     G-cox1 ==> end
+  4165  gagtatcgggcatggtagttccccccagggggggcat
+;     G-trnS(uga) ==> start
+  4202  ggggagatggcagaggggtttattgcaattgtct!tga!aaacaaattgccactttaagt
+  4260  ggtacatgagttcaaatctcattctttccg
+;     G-trnS(uga) ==> end
+  4290  aactg
+;     G-trnC(gca) ==> start
+  4295  ggtgctatagcataatggtaattgcaatagttt!gca!aaactattggtataggttcaag
+  4353  tcctgttagcgcct
+;     G-trnC(gca) ==> end
+  4367  tttaagaaaat
+;     G-nad1 ==> start
+  4378  atggcgatgataattataaaaatattaatcatactggtaccattattaatttctattgcc
+  4438  tatttaactttggcagaaaggaaggtgctagggtacattcaaagtagaaggggtccaaat
+  4498  gttgtgggaatttatgggctattacaaccctttgcggatgggttgaaattgtttactaaa
+  4558  gaagtaatcataccgaatcatgctaacatttatatctatataatggcaccaattttgtct
+  4618  ttgactttggcatttattgcttgaggggttgtcccatacggggaggggtttgtcttgagt
+  4678  gatttgtctattggtattttatatttatttgcagtttcatccataagtgtatatgcggta
+  4738  ttgatgtccgggtgggccagtaactctaagtatgcctttttaggtgcaattagggcggcg
+  4798  gctcaaatgattagttatgaggtttctattggattaataataatttctgttgttttatgt
+  4858  gtgggctctttaaatctaactgaaatagttttagctcaaaaaaatatatgatttattgtc
+  4918  ccgttattccctgctgctattatgttttttgtttccgcattggcagagaccaatcgagtt
+  4978  ccttttgatttaacggagggagagtccgagctagtttccgggtttaatgttgaatattct
+  5038  tctatgtcttttgctttgttttttttagcggaatatgcgcatataatcttgatgtcaact
+  5098  tttggggttatactttttctaggtggatggttttttcctgggggtttggtatctaattgc
+  5158  cttttgatggggatcaaggtggcttttattatctttctttttatttgggtaagggcctct
+  5218  ttaccaagaataagatatgatcaattaatggccttactgtgaaaatcttatttgccattg
+  5278  agtttagcatatgtcgtgtttgtattaagtattcttattggatttaatggtttgccccct
+  5338  gccggtcttatgtag
+;     G-nad1 ==> end
+  5353  atggattaggaggcgatc
+;     G-trnL(uaa) ==> start
+  5371  gccactgtggtggaatcggtagacatagtaggtt!taa!aacctgcgggcgtggccatat
+  5429  gagttcgaatctcatcagtggta
+;     G-trnL(uaa) ==> end
+  5452  atggaagtgcg
+;     G-trnR(ucu) ==> start
+  5463  gcacccatagctcaattggaagagcgtttgcct!tct!aagtaataggttgtaggttcga
+  5521  atcctattgggtcta
+;     G-trnR(ucu) ==> end
+  5536  taatattcaatcctcggcggttggtattgtttg
+;     G-cox3 ==> start
+  5569  atgcaacattattatcatccatatcatttagtggatccgagcccatgaccatacatcggg
+  5629  tcatgtggcgctttttttactacagttggggcagttatgtattttcattatagtcaaagc
+  5689  ttagtattaattttaggcttaattaccatcatttttacaatggttgtttgatgacgagat
+  5749  gtgattcgggaatcaacattccaaggacatcatacatttattgtaaaacaagggttgaag
+  5809  tacggaatgattttatttattctttccgaagtttgtttatttttttctttattttgggct
+  5869  ttttttcatagtagtttagcacccacaatagaggttggggcagtttgaccgccaaggggt
+  5929  gtaaaccctttaaatccgtgatcggttcctcttttaaatactgcggtattactgagttcg
+  5989  ggtgccactgttacttgggcgcatcatgcaataattagtggcaaaagaaaagaagccatt
+  6049  ttaggtttattttttacagttttattaggaatagggtttactggtttgcaagctatggag
+  6109  tattatgaggcaccatttacaatatcagactccgtatatggttccactttttttgttact
+  6169  accggagctcatggggggcatgtgttaattggtagtacattcttattagtttgtcttttt
+  6229  cgacttataagtcatcaattcactagacatcatcattttggttttgaagcagcggcatgg
+  6289  tattggcattttgtggatgttgtttgattatttttatttatttttatgtattgatggggg
+  6349  tcataa
+;     G-cox3 ==> end
+  6355  atttataggcccaccctatgggtgggcctaagctcaattgtaaatgggttattgacgttt
+  6415  cttgatatcg
+;     G-trnQ(uug) ==> start
+  6425  tagggattagccaaaccggtacggcagaaagtt!ttg!gtctttctaattgcaagttcga
+  6483  gtcttgcatctctag
+;     G-trnQ(uug) ==> end
+  6498  tgttgtttc
+;     G-trnW(uca) ==> start
+  6507  gggagattaggtaaatggtagaccggaagcct!tca!aagtttttagtgttggttcaatc
+  6565  ccagcatctcctg
+;     G-trnW(uca) ==> end
+  6578  tgcgcgatacacta
+;     G-trnM(cau)f ==> start
+  6592  agtagggtagactaacggcaagtcatcaggct!cat!tatctgagtatgtgggttcaagt
+  6650  cctgcccctatat
+;     G-trnM(cau)f ==> end
+  6663  a
+;     G-nad2 ==> start
+  6664  atgtatgaagttcctctcaatattttctatataattatatatccggaaatattattaagt
+  6724  cttgcagtattaggtttagttatttacggtgtaaatccattatctaccaacaaaattacc
+  6784  gtgattattttaggtttaatcggtatctgggtttctttgatgggattgggtgattttggg
+  6844  gaaaattcttattttaatatcgctcaatcttccaatgggctattgatgattaatggttga
+  6904  attactgtatcgaaacttcttattgtaattggttctttttctattcttttaatgggacaa
+  6964  tcctcggggcggcttaatgtagaatactcctctagtcctgttttaatattaattgttacc
+  7024  ctaagttctttgcttttgatttcggcaataaattgattatcgttttatttagcattggaa
+  7084  ttgcaaactttgtctttatttatattggtggcattaaagagggatagtgcatatagtacg
+  7144  gaagcaggtttgaaatactttgtattgggtgcgctttcttctgggttgtttttatttggt
+  7204  tgcgttttattatatggtttaacgggggaggtgagtatacaaggagtagggctttgccct
+  7264  gggggagaaattggacgaatatttattactatttctcttttatttaaattatctgttgca
+  7324  ccttttcatatgtgagctccagatgtttatgaaggtgctccgactatcataacggctttg
+  7384  ttggcaactgtgcccaaaattagtgtgtattctattttagttcagattgggccaactaca
+  7444  aatgtaatattaatttgtgctgctatctccataatttatggtgcaattggggcattaaat
+  7504  caaacaagaattaaaaggttattagcctatagtgggattggacatatgggatttatttta
+  7564  tttggagtcgcaatgggttcttttgaggggatacaggctagttttatttatatgattatt
+  7624  tatgtaataatgtctgtttgtagtttttctacaattatttctttaaatttaagtcgtgga
+  7684  ttattagtagaattaagtggaatatctaggaataatccggttattgctatgacgttggca
+  7744  gttgttttcttttcaattgcggggattccaccgttagcggggtttttaagtaagtgattt
+  7804  atattattatctggaatctatggtggatattatttattttcattagttatcgtcattagt
+  7864  tccgtaattgctggcgtttattatgttagagttgttaagttgttatattttcaaaccgat
+  7924  tatccgttattagtttgacaaagggttttaaatagagaaagtggggtagattttccgaga
+  7984  tcaatattaattggtgtgactcttttttttattctcttttttattatttgccccaatttt
+  8044  ttacttcaaattacacacgatgcaacaatttgtttatattag
+;     G-nad2 ==> end
+  8086  gatgttcgccctactagaaatccatttgtagggcagaaacacattttgaagcccatagcg
+  8146  taggattatcctaggttgattatgaagagataataagagata
+;     G-nad5 ==> start
+  8188  atgtatatattagtcctttttgtgcccttgctaagtgctgttatttctggattgtttgga
+  8248  aggataattggaacaaggggggcaggtatttttacatctagttgtattgtaacaagtttt
+  8308  ataatttcttgttttattttttacgaaacaacattaaatgtgtctccggtttatataaag
+  8368  ctatgacgatggtttgattcagaattattcactggtagttttgggcttcagtttgatggt
+  8428  ttgactgggtcgatgctttttgttataacaagtgtgtctgcattagttcatatttattca
+  8488  acagggtatatggaaggtgatccacatataccaagatttatgagttatttatcctttttt
+  8548  acgtttttaatgatagtacttgtcactagtgataattatattcaattatttatagggtga
+  8608  gaaggtgttggattgtgttcttatcttttgattaatttttgatttactcgaattaaggct
+  8668  aataaagcggccataaaggccatgttaatcaatagggtaggggatatggggctagttttg
+  8728  gctatgtttatgattttaagagaatttggctcattagagttttcaattattaataattta
+  8788  ttaattattgagtcggaaagtagtaatataatttgttttcttttatttgtgggggctatt
+  8848  ggaaaatcggctcaattggggttacatacttgattgccagacgcaatggagggtcctact
+  8908  ccggtttctgccttaattcatgcggcaacgatggttactgccggtgtttttttgattatt
+  8968  cggtctgcgcctttgtttgaattcgcaccttttacattaactttggttacgattgttggt
+  9028  gctttgactgctttttttgcagcgacaattggtgttgttcaaaatgatttgaaaaaggtt
+  9088  attgcctactccacctgtagtcagttagggtatatggttatgatttgtggtctatcaaat
+  9148  tattcgactagtttgtttcatttaatgaatcatgcgttttttaaggctttattgtttttg
+  9208  agtgcggggtctgtcattcatgctgtgagtgatgagcaagatatgagaaaaatgggaggg
+  9268  ttaattcgatctattcctttgacgtatattatgatatttattggttcgctatctctaatg
+  9328  gggtttccttatttgacaggattttattcaaaagatttaatactagaattaacatataat
+  9388  aaatattatatggcatttgcttattgattaggaagtctttcggcgttattaacggcattt
+  9448  tattctacaagattgatttatttaactttttttaccaatactaattctagaaaagaggcc
+  9508  ttagtaggggtacatgaaccttcttttaatattatatctcctttaatttttttagctttt
+  9568  ggaagtatatttattggatatttgggaaaagaaatgattatttctaatgttattcaccca
+  9628  attgttcctggttatataaaaacatttccattaattttaagcttattggggggcattttg
+  9688  gctttttttttatatagtttgaatatatcattttattctactcgtggaatttttttaact
+  9748  ttttatactttttttaattctgcttgacagtttaattacattattaatcattttattgtc
+  9808  cggaatgtttggcgttttggtcacaatattacttataaggttattgatcgagggttatta
+  9868  gaacaattaggaccaaatggaatctcgagggttattataaatttaactcaaaaaatgagt
+  9928  aatcttcaagggggaatggtatttaattatgccttaattatgattttatttactactttg
+  9988  tttatttcagggattctctag
+;     G-nad5 ==> end
+ 10009  gatcaaagaatccttatggc
+;     G-trnA(ugc) ==> start
+ 10029  ggggttttagctcaataggaggagcagtggctt!tgc!aagtcaaaggctacaggttcga
+ 10087  ggcctgtaaactcca
+;     G-trnA(ugc) ==> end
+ 10102  caatagtttattattatcaatgccggg
+ 10129  cccacctggtaatttattatgtagaagta
+;     G-cox2 ==> start
+ 10158  atgattaataaaataattaaagagtgagttagtgacattattccccttattaattttcta
+ 10218  aaagatgctcctgaaccatgacaattgggatttcaagacgcagcaagcccaataatggag
+ 10278  gaggttatttttcttcatgatcaaattatgtttattttaacgttaataataacaactgtt
+ 10338  ttatgattaattataagttccttgaacaataagcattatcatcgttatttaacagatggg
+ 10398  actgttatagaggtcatttgaacattaattcctgcggctattttggtgtttatcgctttt
+ 10458  ccttccttgaaattattgtatttaatggatgaggtaattgatcctgcattaacaattaaa
+ 10518  gttattgggcatcaatgatattgatcatatgaatattccgattatggtgctgatacaatt
+ 10578  gaatttgactcatatatgatacctacatcggatttgaatagtggtgatttaagattatta
+ 10638  gaagtggataatcgggtagttgttcctattcaaacacaagtacgggttttagtcactggg
+ 10698  gcggatgtgctacattcatttgcagtaccttctttatcggtgaaaatggatgccgtgccc
+ 10758  ggacggttaaatcaaactagttttttaattaaaagacctggggtgttttatggtcaatgc
+ 10818  tccgagatctgcggtgcgaatcattcgtttatgcctattgttatcgaaggtgtttcatta
+ 10878  gataaatatataaattgagttgcggcacaaacacaacaaattgaatcatag
+;     G-cox2 ==> end
+ 10929  ttttaggtcaggccccccctatgggtgggccgtagctcagttggagcccagtagaaatac
+ 10989  atttgggttggtg
+;     G-trnK(uuu) ==> start
+ 11002  tggtgtgtaactcagaaggtagagtaataggct!ttt!aacctagaggttgttggttcaa
+ 11060  ctccaatcataccaa
+;     G-trnK(uuu) ==> end
+ 11075  c
+;     G-atp8 ==> start
+ 11076  atgccacagttagatttattaacttttttaactcaatacatatgaacattgattatttta
+ 11136  ggatcaatatttgtattattagttactacaattttgccgaaaatacaacaacagttagtg
+ 11196  attagatctaaagtcgttgagattaaaggggaggctgtgggaactcctggggtggaaatc
+ 11256  tatcaacaactattaacattaaaaaatgtccatagtaatcaataa
+;     G-atp8 ==> end
+ 11301  aataaa
+;     G-atp6 ==> start
+ 11307  atgttagctgcatattttgatcaatttaatgttatacgattagtaacaatacaagccggc
+ 11367  tcacagagcggaccgggggactggttaattactttcactaattcgtctatgatgatggtg
+ 11427  ttggcaattcttatgttctgattgttgttaaaaggtgatgatttagttccacgtagatgg
+ 11487  caggctgtaatggaattaatatatttaaatattcgttcagttgttagagataatttaggc
+ 11547  gcatctggcgataagttttttccttttgtgattagtttgtttatttttcttgctatgtta
+ 11607  aatactttagggttatttccttatgtttttacccctactgtgcacatagtgataactttt
+ 11667  ggattgtcattttctattttgattggggttacattgttgggagtttttacttttaagtgg
+ 11727  aattttttaagtatgttcatgcctagtggggctcctttattattggctcctctattggtg
+ 11787  tatattgaaactataagttatatttcaagggccctttctcttgggctgagattagctgcg
+ 11847  aatttaacggctggacacttattatttgcgataatgtctgggtttacttttaatatgtta
+ 11907  gcaaatggtttaatatttacaagtttattcccaatgttaattatgttttttgtaacaata
+ 11967  ttagaaatggcggtcgcagtaattcaagcgtatgtatttagcttattaactacaatttat
+ 12027  ttgggtgatacaatcgcactacattag
+;     G-atp6 ==> end
+ 12054  gggcgtttaagccctccgtgtagttatggg
+;     G-trnI(gau) ==> start
+ 12084  cggcatgtagcttaatgggtagagcgtagtctt!gat!aagactaaagttattggttcaa
+ 12142  atccaatcttgccga
+;     G-trnI(gau) ==> end
+ 12157  gtttttagtgaaatgca
+ 12174  tctcg
+;     G-trnY(gua) ==> start
+ 12179  agtgagatggcagagtggtgaatgcgcttcgct!gta!aacggagttgggagaccaatcg
+ 12237  agagttcaaatctctctctcacta
+;     G-trnY(gua) ==> end
+ 12261  tatggcttt
+;     G-trnI(cau) ==> start
+ 12270  gggctggtagcttatttggtaaagcatgttgct!cat!aacaacaaggtagttggttcaa
+ 12328  tcccatctcagctta
+;     G-trnI(cau) ==> end
+ 12343  tagttcaatcg
+ 12354  gtatatttagc
+;     G-trnD(guc) ==> start
+ 12365  ggggttatagcttaatcggtatagcaattggtt!gtc!atccgaaagatacaggttcaat
+ 12423  tcctgttaatcccg
+;     G-trnD(guc) ==> end
+ 12437  gtgcgtggg
+;     G-trnN(guu) ==> start
+ 12446  tctataatagcttaagggtaaagcgtttggct!gtt!aaccaaaagtatatcagttcgat
+ 12504  tctgatttgtagag
+;     G-trnN(guu) ==> end
+ 12518  atatgaatt
+;     G-trnL(uag) ==> start
+ 12527  gggagtgtggtgaaagtggtaaacatatctgatt!tag!gttcagagatttacaggttca
+ 12585  agtcctgtcacttcta
+;     G-trnL(uag) ==> end
+ 12601  t
+;     G-cob ==> start
+ 12602  atgactaaagcgtttagaaaagagaatcctattttttctatagttaattctatatttatt
+ 12662  gatttgcctgcgccgtctaatataagttatttatggaattatgggtctttattaggaata
+ 12722  tgtttagttgtacaaattattacaggaatttttttggcaatgcactattgttcagatgtt
+ 12782  gatttggctttttcatcggtagcgcatattactcgagatgttaattatgggttcattata
+ 12842  cgatctttacatgctaatggggcttctatgttttttttatgtgtgtatttacatatcggt
+ 12902  cgaggaatttattatggtagttataataagatgattgtttgaaatgtgggtattattatt
+ 12962  tatttattaatgatgttaactgcatttcttgggtatgtgttaccctgagggcaaatgtct
+ 13022  ttttgagctgcgacagtaataactaatttagtttctgcggtaccttatatcggggatgat
+ 13082  cttgtaaaatgaatttgggggggatttagtgtgtcaaatgccactttaaatcggtttttt
+ 13142  agtcttcattatttgttaccatttgtcttagctgcattagccattgtacatctcttagca
+ 13202  cttcatgaaaccgggtccaataaccctattggagttaggtcggatatagataaaatacca
+ 13262  tttcatttttattatgtttttaaagatatgtatggggcaatcgttttgggtatgataact
+ 13322  ttagtaattgtttttctttttccatatgtcttgggggatccggaaaattttcaaccagcc
+ 13382  aatccgttagtaactcctgaacatatcaagcccgagtggtattttttatttgcatatgga
+ 13442  atattgcgttcaatccctaataaattggggggagttgtagcgttagtaagtagtatttta
+ 13502  atattatttttattgccttatttacatcaaagtaggtttaagggattaacttttagacca
+ 13562  ttaagtaaaattttattttgatttttcattgcggattttttattgttgacttgaataggt
+ 13622  ggacagccagtagaagagccatatattttggttggacaaatggcatcaatttgttatttt
+ 13682  gcatattttttattattaactcccttggtgggctatttagaaaataagttattacaatta
+ 13742  tattag
+;     G-cob ==> end
+ 13748  ttttcgtttagggcttcttcgacccacctatggtgggtcggcctttgtaccaccgt
+;     G-trnT(ugu) ==> start
+ 13804  gcctttgtagctcaattggaagagcgtttgcct!tgt!aagtaataggttgtaggttcga
+ 13862  atcctactagaggca
+;     G-trnT(ugu) ==> end
+ 13877  gagaaatattgacaaaattagagttgataagattcaatttcaaataatgga
+ 13928  gaat
+;     G-atp9 ==> start
+ 13932  atgacaccagaaattttaagtgcagctaaatttgtaggagcaggtgccgcaactattgga
+ 13992  gccgcaggaagcggggcagggatcggaactgtttttgggaatttaattattgggtattct
+ 14052  agaaatccctcattgaaacaacaactatttacatatgctattttagggtttgctctgtct
+ 14112  gaggctatgggattgttttgtttaatgatggcttttttattattatatgctttttaa
+;     G-atp9 ==> end
+ 14169  gaatgagacccaccctatgggtgggttccccgtgtcaatatgggtttg
+;     G-trnS(gcu) ==> start
+ 14217  gatgagatggctgagttaggtaaagcaacagttt!gct!aaactgtcaaggaatcacctt
+ 14275  gcatgggttcaaatcccattcgcatcg
+;     G-trnS(gcu) ==> end
+ 14302  gttttg
+;     G-trnP(ugg) ==> start
+ 14308  cgggggatatattaattggaagattatctattt!tgg!gtgtagaaggttcgggttcaaa
+ 14366  tcccgctctcctga
+;     G-trnP(ugg) ==> end
+ 14380  ggtttaatgagaat
+;     G-nad4 ==> start
+ 14394  atgttacaattatgacccttgtctatttactttttgccaattattggaatgatcttactt
+ 14454  ataaaaacgccaagaaatgatggggaaaagttaaaaagaataggattagaatgatcttta
+ 14514  tttacatttacagcgactattttattgtgggcttcttttgatgggggctcatttcaaaca
+ 14574  ataaatctttttagttgaattttgaatcttatgacatcttcggtgaatgttgtatttgct
+ 14634  gtagacggaatttccgtcttttttttagttttgaccggcttattgattcctatttgtgtt
+ 14694  ttaataagttgaaattctataagatatttaataaaggagtttttattgtgtttgtttttt
+ 14754  atagaggttttattaatgggggtttttactgttttagatttggtagggttttatattttg
+ 14814  tttgaaggtatattaatcccgatgtttttaattattggtatttgaggttctagagaagaa
+ 14874  aaagtacaagcggcatattattttttcttttatacttttattggatcagtttttatgtta
+ 14934  ttaggtatctttgttctttatagcctatctggaagtacggattatcaaacgttatgttgt
+ 14994  cttcaattcgacaattctgttcaatattttgtgtttgggggctttttttttagtttagct
+ 15054  gttaaaatacctaaaataccatttcatatatgattaccacaagctcatgtggaagcgccc
+ 15114  gtggcgggttctgtaattttagctggtgtcctattgaagctggggggctatggatttata
+ 15174  cggttttcttggccgcttttaccagatgcgtccgagtttttttctcctttaatccaaact
+ 15234  ttaagtgttttagcagtgatttatggaagtttaaccacttgtcgtcaagtggatttgaaa
+ 15294  cgaataattgcttattcttccattgcacatatgggcttagttactttaggtatttttagt
+ 15354  cataccattacgggattaatggctgcaatatatttaatgttagcacatgggttagtaagt
+ 15414  tctgctttatttataattgtgacttttttatatgaacgacactctactcgtcttataaaa
+ 15474  tactatcgagggatgaccatcactatgcccctttttagtgctttaatgttgttatttatc
+ 15534  ttagctaatattggtatccctttaagttgtaattttgttggagagtttctttcattattt
+ 15594  tctgcattcgagtatagttttgtggtgggagtattagcatcatcagggatggttctgtct
+ 15654  ggaggatattcaatgtatctttataatagagtttgttttggtgtgccttccaaatatttg
+ 15714  tctttttctcgggatttaactcgacgagaggtgttttccctattcccattggcctttttc
+ 15774  acttatttgcttggggtgttcccatcaattttgaccgatgttataaaaagtagcacaatt
+ 15834  tttcaagaattatattag
+;     G-nad4 ==> end
+ 15852  ccttaattcgagtccctg
+;     G-trnH(gug) ==> start
+ 15870  ggtgagagtagcttagtggaagagcaagggttt!gtg!gcgccaatggtcgagagttcga
+ 15928  atctcttctttcacc
+;     G-trnH(gug) ==> end
+ 15943  cgaatattaacccccaaatctcg
+;     G-trnE(uuc) ==> start
+ 15966  gcctctatcgtctagtggttaggacattagctt!ttc!gagcttaagacaggagttagat
+ 16024  tctccttaggggta
+;     G-trnE(uuc) ==> end
+ 16038  ataataataaaa
+;     G-nad6 ==> start
+ 16050  gtggaaggattattttatttgtttgctttaggagttattttttctgggattatggttata
+ 16110  tcttcattgaatcccgtccattccgtgctttggttaatatttgcatttaccaatgcttct
+ 16170  gcattgtttattttattagaggtagagtttctcgcttttatttttttaatagtatatgtc
+ 16230  ggagcaattgctatattattcctttttgttataatgatgttaaatttaacagattttgga
+ 16290  tataatattaattcggatatgtctaactatttgccggctggtttagtgattgggattgtt
+ 16350  tttttatttgaaattttaatatggcataatcattcggaaggttattatttaggttcagat
+ 16410  tgtgtgccaatctattataattgtgttatttcgagtcctaatattgaaactatagggagg
+ 16470  gtattatatactgatttttattttttatttttattagctagttttatattattagttgcc
+ 16530  atgataggagcaattgttttgacacatgaaataaataccgagattagacgacaagatatt
+ 16590  tttatacaaacaagtaggcaactttgagattcttaa
+;     G-nad6 ==> end
+ 16626  gtttttcatgtccgccggctaccggtgcattttttaattcttttctccagtaggcgggcg
+ 16686  gcgtaggcgattatgaaatt
+;     G-nad3 ==> start
+ 16706  atgagtaatatagagtttatggggatatttgttttgttattgataagtgtagctctttcg
+ 16766  actgttatatctggtgcttcgtatgttttaggtgttaaaaagccagatagtgaaaaagta
+ 16826  tcggcttatgagtgcgggtttgatccttttgaatcttctcggattcctttttctgttagg
+ 16886  ttttttttagtgggaatcttatttttaatttttgatttagaaatttcatatcttttccca
+ 16946  tggtgtgtggtgtcgaatcaaatagaattgctaggattttgaataatgatgattttttta
+ 17006  atcatattaactttggggctgatctatgagtgggttttgggaggcttggattgggagtaa
+;     G-nad3 ==> end
+ 17066  tgtcctcccatttcctgt
+;     G-trnR(ucg) ==> start
+ 17084  atgtttgtaatttaatggaaaaatgtctatct!tcg!gaatagaaaataggggttcaagt
+ 17142  cccttcagacatt
+;     G-trnR(ucg) ==> end
+ 17155  aatca
+;     G-nad4L ==> start
+ 17160  atgtattacgagtatttaactgtcggaattcttttatttattttgggggttttaggtatt
+ 17220  gttttaaataggagcaatttaattattatgctaatgtcgattgaattgatgttattggct
+ 17280  atttcatatttgtttttagttaattctgtggctattgataatttaatgggacaaatttgt
+ 17340  actataatggtattaaccgtggcagcggcggaatctgcgatcggtttagcgattttagtt
+ 17400  gcatattatcgagtaagagggacgatttccgttaaaacacttaacttattacgaggataa
+;     G-nad4L ==> end
+ 17460  ctaccgcccacccggagggtggggcgaagttatggtcgaaaccgcggaaactaatgggac
+ 17520  tttggggatagtttccgattataattaatcaaaaattatattaataaataaaggccatat
+ 17580  ctggccggttggaatgggtattta
+;     G-trnM(cau)e ==> start
+ 17604  ggtgatatagtttaatggttaaaaacaattatct!cat!acgtaataaatagaggttcaa
+ 17662  ttccttttttcaccc
+;     G-trnM(cau)e ==> end
+ 17677  cggcggtttg
+;     G-trnF(gaa) ==> start
+ 17687  gcgcaggtagctcaattgggagagcaaaacact!gaa!aatgtttgggttattggttcaa
+ 17745  atccaatcttgagca
+;     G-trnF(gaa) ==> end
+;     G-rns ==> start
+ 17760  tcattaaaaccgagatt
+	attcctttgattctggggaagatagaaagcgcgcggcacttat
+ 17820  aatacatgctagggtgataaattattccatatttatcccgtacaggtgagtaatattctg
+ 17880  gaatgagcggcccttagggccatcagctggaattgtattaggtagaaggctcgataaggg
+ 17940  tgggccttgccgaagatgcatagcctaatggccacatttccactgaaacaagggggagac
+ 18000  tcgtttagaggcagcagtagaggattttgtgcaatgtatgaaagtatgacacagagatgt
+ 18060  cgcattttggactgtctaatatacgtgccagcagacgcggttatacgtaaggtcctagtt
+ 18120  tttattgagaaaaaggcgtaaagggtgtgtaggtgtgttattagggtcaaaaagaggtaa
+ 18180  gtagaacttttatgtagcggtagaatgctttgatataaaatggaattccagaggcgaagg
+ 18240  cggcttaccaatattgaccgtcgctgagacacgaaagtgtggggagctaacaggattaga
+ 18300  taccctggtcgtccacactgtaaacaatgaatattaaatggtggggtttttggccctatt
+ 18360  attaatccaaaactgattattattccgcctgaagattacgattgcaagattaaaactcaa
+ 18420  agaatttggcggttcactattccaattagaggagcgtgtagtttaattcgataatccgcg
+ 18480  aataaccttaccaaaactagaatatttaatattacaagaaagggactacgggccatatct
+ 18540  ggccggttggagtggtgttaaaataactattaaatacaggtattgcatggctgtcgtcag
+ 18600  tttgtgttgtgagattaattaaacgaacttagcccttagatagtaatatataattataaa
+ 18660  aaggacgacgtcaagcccttatgatccctatgttttgggctatatatgcgctactttttt
+ 18720  ttatacaaagagtataagatgaagctttaaagtaaaattttcggatagatggttgtaaga
+ 18780  ttatcttgaagttggatttaatagtaatcgaaaagtagagcgtttcggtgaatatggctc
+ 18840  tagtgttcgtacaaatcgcccgtcaactctgccgaataatagattcccaaagtgcgcccg
+ 18900  ctttcggtggggtataacggttataatatgaggttgagtaagtcgtaacacagcgaggcc
+ 18960  accggaaggtggcctcggattcat
+;     G-rns ==> end
+;     G-trnG(ucc) ==> start
+ 18984  acacacataatttagcaggtaaaattattgact!tcc!aattagtgaatgtgggttcaag
+ 19042  tcccactgtgtgta
+;     G-trnG(ucc) ==> end
+ 19056  tggtgttttggagcgatattgggg
+;     G-trnV(uac) ==> start
+ 19080  gggtgtttagcttagtggggagagcgacgtgtt!tac!accacgagggtcgaaagttcaa
+ 19138  ctctttcagcaccta
+;     G-trnV(uac) ==> end

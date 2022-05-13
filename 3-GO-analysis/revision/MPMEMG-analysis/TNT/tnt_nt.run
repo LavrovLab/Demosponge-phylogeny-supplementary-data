@@ -1,0 +1,30 @@
+quote
+*************************************************************
+ Running a more thorough TNT analysis of gene order data
+*************************************************************
+;
+mxram 2000 ;
+procedure 42taxa.tnt ;
+hold 1000000 ;
+log tnt_nt.log ;
+taxname = ;
+
+xmult=hits 10 noupdate nocss replic 10 ratchet 10 fuse 1 drift 5 hold 100 noautoconst keepall;
+bbreak = tbr ;
+nelsen * ;
+tchoose { strict } ;
+ttags = ;
+blength *;
+ttags );
+ttags ;
+export > 42taxa_nt_strict.tre ;
+ttags -;
+
+ttags = ;
+resample replications 200 [ mult=replic 10 tbr hold 100000 ];
+keep 1 ;
+ttags );
+ttags ;
+export - 42taxa_nt_boot.tre;
+proc/;
+

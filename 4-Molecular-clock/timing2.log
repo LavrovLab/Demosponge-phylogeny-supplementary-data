@@ -1,0 +1,48 @@
+
+phylobayes version 4.1
+
+init seed : 694146
+
+data file : fasta.nxs
+number of taxa : 120
+number of sites: 3626
+
+fast computation / high memory use 
+
+fixed tree topology: topology2.tre
+outgroup : G1_G2.outgroup
+
+branch lengths ~ iid gamma of mean mu and variance epsilon*mu^2
+mu ~ exponential of mean 0.1
+epsilon ~ exponential of mean 1
+
+site homogeneous model: free equilibrium frequencies (pi inferred from data)
+pi ~ uniform
+
+relative exchange rates:
+gtr (relative rates ~ iid from an exponential of mean 1)
+
+rates ~ gamma of mean 1 and variance 1/alpha
+4 discrete categories (Yang 1994)
+alpha ~ exponential of mean 1
+
+lognormal autocorrelated relaxed clock
+nu ~ exponential of mean 1
+
+calibrations : calib
+soft bounds (Inoue et al 2009)
+allowing for 2.5 % of probability mass outside calibration (2.5% on each side for an upper and lower bound)
+lower bounds as in Paml 4.2 (truncated Cauchy), p = 0.1 and c = 1
+prior on root age: gamma of mean 540 and standard deviation 540
+
+WARNING: it is always advised to check the prior on divergence times in the presence of calibrations, by using the -prior option
+
+prior on divergence times : birth death
+birth rate : lambda
+death rate : mu
+sammpling fraction : rho
+p1 = lambda - mu: net growth rate
+p2 = lambda * rho
+prior on p1 : gamma of mean 0.001 and std dev 0.001
+prior on p2 : gamma of mean 0.001 and std dev 0.001
+

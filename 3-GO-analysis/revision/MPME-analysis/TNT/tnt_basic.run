@@ -1,0 +1,28 @@
+quote
+*************************************************************
+ Running basic TNT analysis of gene order data
+*************************************************************
+;
+mxram 2000 ;
+procedure 77taxa.tnt ;
+hold 1000000 ;
+log tnt_basic.log ;
+taxname = ;
+mult=replic 100 tbr;
+bbreak = tbr ;
+nelsen * ;
+tchoose { strict } ;
+ttags = ;
+blength *;
+ttags );
+export - 77taxa_basic_strict.tre ;
+ttags -;
+
+ttags = ;
+collapse tbr ;
+resample replications 200 ;
+keep 1 ;
+ttags );
+export - 77taxa_basic_bs.tre
+proc/;
+

@@ -1,0 +1,31 @@
+Taxon names is ON 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+100   TBR      320 of 320    ------      345          0:00:00    9,659,292     
+Completed 100 random addition sequences.
+Total rearrangements examined: 9,659,292. 
+Best score hit 100 times out of 100 (some replications overflowed).
+Best score (TBR): 345.  320 trees retained. 
+Start swapping from 320 trees (score 345)... 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+---   TBR     2108 of 2109   ------      345          0:00:01    51,594,669    
+Completed TBR branch-swapping.
+Total rearrangements examined: 51,594,669. 
+Best score (TBR): 345.  2109 trees found. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2109 trees (0 taxa excluded) calculated, as tree 2109 
+Selecting tree(s) 2109,  
+1 trees selected 
+Copied legends: "Tree 0 min. branch lengths" 
+Saved trees (Nexus format) to file 77taxa_basic_strict.tre 
+ 
+WARNING: 
+Existing tree-tags will be erased 
+ 
+Collapsing trees with TBR 
+Copied legends: "GC values, 200 replicates, cut=0 (tree 0) - Symmetric Resampling (P=33)" 
+Average group support: 30.4 
+ 
+1 trees in memory 
+Saved trees (Nexus format) to file 77taxa_basic_bs.tre 

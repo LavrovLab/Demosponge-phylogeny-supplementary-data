@@ -1,0 +1,7 @@
+#NEXUS
+
+begin trees ; 
+tree tagged_tree = [&U] 
+(Acanthella_acuta:0,(Phakellia_ventilabrum:8,Svenzea_flava:2,((Axinella_infundibuliformis:2,Biemna_caribea:0,((Cinachyrella_kuekanthali:2,Corvomeyenia_sp:0,Cymbaxinella_corrugata:12,Scopalina_sp1:24,Vetulina_sp:21,(Polymastia_littoralis:0,(Adreus_fascicularis:29,Halichondria_okadai_NC037391:0,(Clathria_curacaoensis:2,Crambe_crambe:8,Crella_elegans:0,Iotrochota_birotulata:2,Myxillina_cv2473337:0,Nmbata_magnifica:2,Phorbas_amaranthus:4,Tedania_ignis:1,(Chondropsidae_MO1046:0,Lissodendoryx_colombiensis:0):5):12,(Cliona_varians:13,(Clionaopsis_sp:0,Diplastrella_bistellata:2):1):9):2):4,(Agelas_schmidti:0,Astrosclera_willeyana:15):8,(Leiodermatium_sp:0,Myceliospongia_araneosa:2):8):3,(Amphimedon_compressa:2,Callyspongia_plicifera:0,Haliclona_sp_verrucosa:0):4):2,(Stelligera_stuposa:0,(Ectyoplasia_ferox:2,Ptilocaulis_walpersi:4,Raspaciona_aculeata:0):2):2):0,(Plenaster_craigi:29,(Petromica_sp:0,Topsentia_ophiraphidites:0):5):2):14,(Dictyonella_marsilii:8,Dictyonellidae_p0911:0):2):0);
+
+end ; 

@@ -1,0 +1,24 @@
+Space for 100000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+10    TBR       69 of 70     ------      562          0:00:00    13,406,344    
+Completed 10 random addition sequences.
+Total rearrangements examined: 13,406,344. 
+Best score hit 10 times out of 10 (some replications overflowed).
+Best score (TBR): 562.  70 trees retained. 
+Start swapping from 70 trees (score 562)... 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+---   TBR    12799 of 12800  ------      562          0:00:32    1,616,362,136 
+Completed TBR branch-swapping.
+Total rearrangements examined: 1,616,362,136. 
+Best score (TBR): 562.  12800 trees found. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 12800 trees (0 taxa excluded) calculated, as tree 12800 
+Taxon names is ON 
+No tree-tags to save! 
+Error reading tnt_basic.run 
+tbr ; nelsen * ; taxname= ; export > 77taxa_tree.nex ; resample replication 
+                                    ^
+ 
+Quick collapse is ON 

@@ -1,0 +1,179 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=77;
+	taxlabels
+	'Acanthella acuta'
+	'Adreus fascicularis'
+	'Agelas schmidti'
+	'Amphimedon compressa'
+	'Astrosclera willeyana'
+	'Axinella infundibuliformis'
+	'Axinella polypoides'
+	'Biemna caribea'
+	'Callyspongia plicifera'
+	'Chalinula loosanoffi'
+	'Chondropsidae MO1046'
+	'Cinachyrella kuekanthali'
+	'Clathria curacaoensis'
+	'Cliona varians'
+	'Clionaopsis sp'
+	'Corvomeyenia sp'
+	'Crambe crambe'
+	'Crella elegans'
+	'Cymbaxinella corrugata'
+	'Dercitus luteus'
+	'Dictyonella marsilii'
+	'Dictyonellidae p0911'
+	'Diplastrella bistellata'
+	'Ectyoplasia ferox'
+	'Ephydatia fluviatilis'
+	'Ephydatia muelleri'
+	'Eunapius subterraneus'
+	'Geodia neptuni'
+	'Halichondria okadai NC037391'
+	'Halichondria panicea'
+	'Halichondria sp'
+	'Haliclona implexiformis'
+	'Haliclona manglaris'
+	'Haliclona sp. verrucosa'
+	'Heteroxia sp. nov'
+	'Hymedesmia sp. MO1058'
+	'Hymeniacidon perlevis'
+	'Hymeniacidon sinapium'
+	'Iotrochota birotulata'
+	'Leiodermatium sp'
+	'Lissodendoryx colombiensis'
+	'Lubomirskia baicalensis'
+	'Microscleroderma sp'
+	'Myceliospongia araneosa'
+	'Myxillina cv2473337'
+	'Negombata magnifica'
+	'Neofibularia nolitangere'
+	'Neophrissospongia sp.'
+	'Petromica sp'
+	'Petrosia ficiformis'
+	'Phakellia ventilabrum'
+	'Phorbas amaranthus'
+	'Placospongia intermedia'
+	'Plenaster craigi'
+	'Poecillastra laminaris'
+	'Polymastia littoralis'
+	'Polymastia tenax'
+	'Ptilocaulis walpersi'
+	'Raspaciona aculeata'
+	'Scopalina sp1'
+	'Spirastrella cunctatrix'
+	'Spongilla lacustris'
+	'Stelletta fibrosa'
+	'Stelligera stuposa'
+	'Stylissa carteri'
+	'Suberites domuncula'
+	'Suberites ficus'
+	'Svenzea flava'
+	'Svenzea zeai'
+	'Tedania ignis'
+	'Tethya actinia'
+	'Tethya sp. KU748128'
+	'Tethya wilhelma'
+	'Topsentia ophiraphidites'
+	'Vetulina sp'
+	'Xestospongia muta'
+	'Xestospongia testudinaria'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((('Acanthella acuta':0.271703,('Svenzea flava':0.123775,'Phakellia ventilabrum':0.125803)[&label=86]:0.052767)[&label=51]:0.081153,('Dictyonellidae p0911':0.166151,'Dictyonella marsilii':0.245378)[&label=51]:0.003839)[&label=100]:0.403984,(('Petromica sp':0.082529,'Topsentia ophiraphidites':1.0E-6)[&label=99]:0.159335,((((('Axinella polypoides':1.0E-6,'Axinella infundibuliformis':1.0E-6)[&label=100]:0.076233,('Heteroxia sp. nov':1.0E-6,'Haliclona sp. verrucosa':0.076234)[&label=28]:1.0E-6)[&label=32]:0.039417,((('Ectyoplasia ferox':1.0E-6,'Ptilocaulis walpersi':0.103111)[&label=88]:0.099212,'Raspaciona aculeata':0.016589)[&label=69]:0.02539,'Stelligera stuposa':0.040616)[&label=72]:0.09644)[&label=24]:0.039418,'Biemna caribea':1.0E-6)[&label=2]:1.0E-6,'Neofibularia nolitangere':1.0E-6)[&label=9]:1.0E-6)[&label=9]:0.025161,((((('Halichondria okadai NC037391':1.0E-6,'Halichondria sp':1.0E-6)[&label=99]:0.039404,((('Tethya sp. KU748128':1.0E-6,('Tethya wilhelma':1.0E-6,'Adreus fascicularis':1.0E-6)[&label=20]:1.0E-6)[&label=20]:1.0E-6,'Tethya actinia':1.0E-6)[&label=100]:0.548911,(('Hymeniacidon sinapium':1.0E-6,'Suberites ficus':1.0E-6)[&label=12]:1.0E-6,(('Suberites domuncula':1.0E-6,'Halichondria panicea':1.0E-6)[&label=10]:1.0E-6,('Hymeniacidon perlevis':1.0E-6,((('Placospongia intermedia':1.0E-6,'Clionaopsis sp':1.0E-6)[&label=99]:0.02189,('Cliona varians':0.217817,('Diplastrella bistellata':1.0E-6,'Spirastrella cunctatrix':1.0E-6)[&label=100]:0.038838)[&label=87]:0.017429)[&label=100]:0.460065,(((((('Tedania ignis':1.0E-6,'Lissodendoryx colombiensis':0.026004)[&label=53]:0.019145,'Crambe crambe':0.283915)[&label=57]:0.029744,('Chondropsidae MO1046':0.077101,'Clathria curacaoensis':0.0771)[&label=47]:1.0E-6)[&label=26]:1.0E-6,'Negombata magnifica':0.046275)[&label=25]:1.0E-6,(('Crella elegans':1.0E-6,'Hymedesmia sp. MO1058':1.0E-6)[&label=59]:1.0E-6,('Myxillina cv2473337':0.054191,'Phorbas amaranthus':0.105842)[&label=88]:1.0E-6)[&label=97]:0.046274)[&label=92]:0.026788,'Iotrochota birotulata':0.024119)[&label=97]:0.148394)[&label=95]:0.052475)[&label=9]:1.0E-6)[&label=5]:1.0E-6)[&label=92,!rotate=false]:0.02244)[&label=86,!rotate=false]:0.017434)[&label=96,!rotate=true]:0.12763,('Polymastia littoralis':1.0E-6,'Polymastia tenax':1.0E-6)[&label=94]:1.0E-6)[&label=94]:0.076233,('Lubomirskia baicalensis':1.0E-6,(('Ephydatia muelleri':1.0E-6,('Eunapius subterraneus':1.0E-6,(('Corvomeyenia sp':1.0E-6,('Ephydatia fluviatilis':1.0E-6,'Svenzea zeai':1.0E-6)[&label=7]:1.0E-6)[&label=1]:1.0E-6,'Spongilla lacustris':1.0E-6)[&label=0]:1.0E-6)[&label=1]:1.0E-6)[&label=2]:1.0E-6,((('Scopalina sp1':0.273712,'Vetulina sp':0.276359)[&label=86]:0.065572,((((('Cinachyrella kuekanthali':1.0E-6,('Neophrissospongia sp.':1.0E-6,'Stelletta fibrosa':1.0E-6)[&label=9]:1.0E-6)[&label=4]:1.0E-6,'Geodia neptuni':1.0E-6)[&label=5]:1.0E-6,'Dercitus luteus':1.0E-6)[&label=9]:1.0E-6,'Poecillastra laminaris':1.0E-6)[&label=71]:0.038758,('Myceliospongia araneosa':0.078222,('Microscleroderma sp':1.0E-6,'Leiodermatium sp':1.0E-6)[&label=100]:1.0E-6)[&label=100]:0.363802)[&label=54]:0.041066)[&label=45]:0.012458,(('Plenaster craigi':1.148499,('Astrosclera willeyana':0.163693,'Agelas schmidti':1.0E-6)[&label=95]:0.059833)[&label=49]:0.280011,('Cymbaxinella corrugata':1.0E-6,'Stylissa carteri':1.0E-6)[&label=100]:0.381955)[&label=42]:0.137211)[&label=52]:0.012948)[&label=4]:1.0E-6)[&label=43]:1.0E-6)[&label=63]:0.041844,((('Callyspongia plicifera':1.0E-6,('Chalinula loosanoffi':1.0E-6,'Haliclona implexiformis':1.0E-6)[&label=13]:1.0E-6)[&label=8]:1.0E-6,('Amphimedon compressa':0.078223,'Haliclona manglaris':1.0E-6)[&label=9]:1.0E-6)[&label=79]:0.025344,(('Xestospongia muta':1.0E-6,'Petrosia ficiformis':1.0E-6)[&label=24]:1.0E-6,'Xestospongia testudinaria':1.0E-6)[&label=53]:1.0E-6)[&label=34]:0.041698)[&label=18]:0.017796);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=12;
+	set tipLabels.fontStyle=3;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

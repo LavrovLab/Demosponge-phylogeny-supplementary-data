@@ -1,0 +1,9 @@
+#NEXUS
+
+begin trees ; 
+tree tagged_tree = [&U] 
+(Acanthella_acuta,(((Axinella_infundibuliformis,Biemna_caribea,((Cinachyrella_kuekanthali,Corvomeyenia_sp,Cymbaxinella_corrugata,Scopalina_sp1,(Polymastia_littoralis,((Adreus_fascicularis,(Halichondria_okadai_NC037391,(Cliona_varians,(Clionaopsis_sp,Diplastrella_bistellata)65)97)0)6,(Clathria_curacaoensis,Crambe_crambe,Crella_elegans,Iotrochota_birotulata,Myxillina_cv2473337,Nmbata_magnifica,Phorbas_amaranthus,Tedania_ignis,(Chondropsidae_MO1046,Lissodendoryx_colombiensis)98)100)1)1,(Vetulina_sp,(Agelas_schmidti,Astrosclera_willeyana)66)6,(Leiodermatium_sp,Myceliospongia_araneosa)99)14,(Amphimedon_compressa,Callyspongia_plicifera,Haliclona_sp_verrucosa)84)48,(Stelligera_stuposa,(Ectyoplasia_ferox,Ptilocaulis_walpersi,Raspaciona_aculeata)43)33)10,(Plenaster_craigi,(Petromica_sp,Topsentia_ophiraphidites)100)84)88,((Dictyonella_marsilii,Dictyonellidae_p0911)55,(Phakellia_ventilabrum,Svenzea_flava)3)2)100);
+tree tnt_1 = [&U] 
+(Acanthella_acuta ,(((Axinella_infundibuliformis ,Biemna_caribea ,((Cinachyrella_kuekanthali ,Corvomeyenia_sp ,Cymbaxinella_corrugata ,Scopalina_sp1 ,(Polymastia_littoralis ,((Adreus_fascicularis ,(Halichondria_okadai_NC037391 ,(Cliona_varians ,(Clionaopsis_sp ,Diplastrella_bistellata )))),(Clathria_curacaoensis ,Crambe_crambe ,Crella_elegans ,Iotrochota_birotulata ,Myxillina_cv2473337 ,Nmbata_magnifica ,Phorbas_amaranthus ,Tedania_ignis ,(Chondropsidae_MO1046 ,Lissodendoryx_colombiensis )))),(Vetulina_sp ,(Agelas_schmidti ,Astrosclera_willeyana )),(Leiodermatium_sp ,Myceliospongia_araneosa )),(Amphimedon_compressa ,Callyspongia_plicifera ,Haliclona_sp_verrucosa )),(Stelligera_stuposa ,(Ectyoplasia_ferox ,Ptilocaulis_walpersi ,Raspaciona_aculeata ))),(Plenaster_craigi ,(Petromica_sp ,Topsentia_ophiraphidites ))),((Dictyonella_marsilii ,Dictyonellidae_p0911 ),(Phakellia_ventilabrum ,Svenzea_flava ))));
+
+end ; 

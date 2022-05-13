@@ -1,0 +1,56 @@
+---
+title: "Converting NEXUS file to TNT"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Libraries
+
+```{r}
+library(tidyverse)
+library(tcltk)
+```
+
+
+## Read as csv and transpose the matrix
+
+```{r}
+getwd()
+setwd("../original/MEMG/data")
+data <- read_table(tk_choose.files(caption = "Choose data matrix"), col_names = FALSE)
+myLetters <- toupper(letters[1:26]) #This is a good idea, but it only works for 10 character states (0-9)
+data <- as.data.frame(lapply(data, function(x) match(x, myLetters)-1)) ## replacing letters by numbers; had to do -1 to start with 0
+taxa <- read_csv(tk_choose.files(caption = "Choose names of taxa"), col_names = FALSE)
+data <- as.data.frame(t(data)) ## transposing the matrix
+row.names(data) <- taxa$X1
+View(data)
+#View(tdata)
+data <- rownames_to_column(data)
+#write_delim(data, path = "./tmatrix.csv", delim = " ", na = '?', col_names = FALSE)
+
+
+outfile <- "77taxa_memg.tnt"
+header <- paste("xread\n", ncol(data) - 1," ", nrow(data), sep="")
+
+tnt_write <- function(x, outfile, header, f = write_delim, ...){
+# create and open the file connection
+  fileConn <- file(outfile, open = 'wb')
+# close on exit
+  on.exit(close(fileConn))
+# if a header is defined, write it to the file (@CarlWitthoft's suggestion)
+  if(!missing(header)) writeLines(header,con=fileConn)
+# write the file using the defined function and required addition arguments  
+f(x, fileConn, ...)
+writeLines(";",con=fileConn)
+}
+
+tnt_write(data, outfile, header, delim = " ", na = '?', col_names = FALSE) 
+```
+
+I used `vi` to change 10,11,12 to A,B,C and to remove spaces.
+
+
+

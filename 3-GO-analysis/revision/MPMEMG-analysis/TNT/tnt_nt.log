@@ -1,0 +1,122 @@
+Taxon names is ON 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+9     FUSE      10           ------      ------       0:00:00    58,301,496    
+Completed search.
+Total rearrangements examined: 58,301,496. 
+Target score (none) hit 10 times.
+Best score: 345.  468 trees retained. 
+Start swapping from 468 trees (score 345)... 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+---   TBR     2108 of 2109   ------      345          0:00:02    50,870,933    
+Completed TBR branch-swapping.
+Total rearrangements examined: 50,870,933. 
+Best score (TBR): 345.  2109 trees found. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2109 trees (0 taxa excluded) calculated, as tree 2109 
+Selecting tree(s) 2109,  
+1 trees selected 
+Copied legends: "Tree 0 min. branch lengths" 
+ 
+Tree 0 min. branch lengths 
+   ,--0 Acanthella_acuta
+   |   ,--2 Svenzea_flava
+   |   |--8 Phakellia_ventilabrum
+|--|   |   ,--0 Dictyonellidae_p0911
+   |   |--2---8 Dictyonella_marsilii
+   |   |        ,--29 Plenaster_craigi
+   `--0|    ,--2|   ,--0 Topsentia_ophiraphidites
+       |    |   `--5---0 Petromica_sp
+       |    |   ,--0 Biemna_caribea
+       |    |   |--2 Axinella_infundibuliformis
+       `--14|   |   ,--0 Stelligera_stuposa
+            |   |--2|   ,--0 Raspaciona_aculeata
+            |   |   `--2+--4 Ptilocaulis_walpersi
+            |   |       `--2 Ectyoplasia_ferox
+            `--0|       ,--0 Haliclona_sp_verrucosa
+                |   ,--4+--0 Callyspongia_plicifera
+                |   |   `--2 Amphimedon_compressa
+                |   |   ,--21 Vetulina_sp
+                |   |   |--24 Scopalina_sp1
+                `--2|   |--12 Cymbaxinella_corrugata
+                    |   |--0 Corvomeyenia_sp
+                    |   |--2 Cinachyrella_kuekanthali
+                    |   |   ,--2 Myceliospongia_araneosa
+                    `--3+--8---0 Leiodermatium_sp
+                        |   ,--15 Astrosclera_willeyana
+                        |--8---0 Agelas_schmidti
+                        |   ,--0 Polymastia_littoralis
+                        |   |   ,--0 Halichondria_okadai_NC037391
+                        |   |   |--29 Adreus_fascicularis
+                        `--4|   |   ,--13 Cliona_varians
+                            |   |--9|   ,--2 Diplastrella_bistellata
+                            |   |   `--1---0 Clionaopsis_sp
+                            `--2|    ,--1 Tedania_ignis
+                                |    |--4 Phorbas_amaranthus
+                                |    |--2 Nmbata_magnifica
+                                |    |--0 Myxillina_cv2473337
+                                |    |--2 Iotrochota_birotulata
+                                `--12+--0 Crella_elegans
+                                     |--8 Crambe_crambe
+                                     |--2 Clathria_curacaoensis
+                                     |   ,--0 Lissodendoryx_colombiensis
+                                     `--5---0 Chondropsidae_MO1046
+ 
+WARNING: 
+File "42taxa_nt_strict.tre" already exists.  It will be overwritten. 
+ 
+Saved trees (Nexus format) to file 42taxa_nt_strict.tre 
+ 
+WARNING: 
+Existing tree-tags will be erased 
+ 
+Copied legends: "GC values, 200 replicates, cut=0 (tree 0) - Symmetric Resampling (P=33)" 
+Average group support: 30.2 
+ 
+1 trees in memory 
+ 
+GC values, 200 replicates, cut=0 (tree 0) - Symmetric Resampling (P=33) 
+   ,-- Acanthella_acuta
+   |             ,-- Svenzea_flava
+   |         ,--3--- Phakellia_ventilabrum
+   |     ,--2|    ,-- Dictyonellidae_p0911
+|--|     |   `--55--- Dictyonella_marsilii
+   |     |         ,-- Plenaster_craigi
+   |     |    ,--84|     ,-- Topsentia_ophiraphidites
+   `--100|    |    `--100--- Petromica_sp
+         |    |    ,-- Biemna_caribea
+         |    |    |-- Axinella_infundibuliformis
+         `--88|    |    ,-- Stelligera_stuposa
+              |    |--33|    ,-- Raspaciona_aculeata
+              |    |    `--43+-- Ptilocaulis_walpersi
+              |    |         `-- Ectyoplasia_ferox
+              `--10|         ,-- Haliclona_sp_verrucosa
+                   |    ,--84+-- Callyspongia_plicifera
+                   |    |    `-- Amphimedon_compressa
+                   |    |    ,-- Scopalina_sp1
+                   |    |    |-- Cymbaxinella_corrugata
+                   |    |    |-- Corvomeyenia_sp
+                   `--48|    |-- Cinachyrella_kuekanthali
+                        |    |    ,-- Myceliospongia_araneosa
+                        |    |--99--- Leiodermatium_sp
+                        |    |   ,-- Vetulina_sp
+                        `--14+--6|    ,-- Astrosclera_willeyana
+                             |   `--66--- Agelas_schmidti
+                             |   ,-- Polymastia_littoralis
+                             |   |       ,-- Adreus_fascicularis
+                             |   |   ,--6|   ,-- Halichondria_okadai_NC037391
+                             |   |   |   `--0|    ,-- Cliona_varians
+                             `--1|   |       `--97|    ,-- Diplastrella_bistellata
+                                 |   |            `--65--- Clionaopsis_sp
+                                 |   |     ,-- Tedania_ignis
+                                 `--1|     |-- Phorbas_amaranthus
+                                     |     |-- Nmbata_magnifica
+                                     |     |-- Myxillina_cv2473337
+                                     |     |-- Iotrochota_birotulata
+                                     `--100+-- Crella_elegans
+                                           |-- Crambe_crambe
+                                           |-- Clathria_curacaoensis
+                                           |    ,-- Lissodendoryx_colombiensis
+                                           `--98--- Chondropsidae_MO1046
+Saved trees (Nexus format) to file 42taxa_nt_boot.tre 

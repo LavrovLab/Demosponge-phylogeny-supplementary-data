@@ -1,0 +1,108 @@
+Taxon names is ON 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+9     FUSE     456           ------      ------       0:00:02    269,506,091   
+Completed search.
+Total rearrangements examined: 269,506,091. 
+Target score (none) hit 10 times.
+Best score: 562.  477 trees retained. 
+Start swapping from 477 trees (score 562)... 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+---   TBR    12799 of 12800  ------      562          0:00:34    1,576,700,120 
+Completed TBR branch-swapping.
+Total rearrangements examined: 1,576,700,120. 
+Best score (TBR): 562.  12800 trees found. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 12800 trees (0 taxa excluded) calculated, as tree 12800 
+Selecting tree(s) 12800,  
+1 trees selected 
+Copied legends: "Tree 0 min. branch lengths" 
+ 
+Tree 0 min. branch lengths 
+   ,--0 Acanthella_acuta
+   |   ,--9 Dictyonellidae_p0911
+   |   |--13 Dictyonella_marsilii
+   |   |   ,--6 Svenzea_flava
+   |   |--5---7 Phakellia_ventilabrum
+   |   |    ,--4 Xestospongia_testudinaria
+   |   |    |--4 Xestospongia_muta
+   |   |    |--23 Vetulina_sp
+   |   |    |--1 Svenzea_zeai
+|--|   |    |--16 Stelligera_stuposa
+   |   |    |--1 Spongilla_lacustris
+   |   |    |--25 Scopalina_sp1
+   |   |    |--16 Raspaciona_aculeata
+   |   |    |--26 Ptilocaulis_walpersi
+   |   |    |--6 Polymastia_tenax
+   |   |    |--6 Polymastia_littoralis
+   |   |    |--4 Petrosia_ficiformis
+   `--0|    |--4 Neofibularia_nolitangere
+       |    |--1 Lubomirskia_baicalensis
+       |    |--10 Heteroxia_sp_nov
+       |    |--10 Haliclona_sp_verrucosa
+       |    |--1 Eunapius_subterraneus
+       |    |--1 Ephydatia_muelleri
+       |    |--1 Ephydatia_fluviatilis
+       |    |--22 Ectyoplasia_ferox
+       |    |--1 Corvomeyenia_sp
+       |    |--4 Biemna_caribea
+       |    |    ,--0 Topsentia_ophiraphidites
+       |    |--12---5 Petromica_sp
+       |    |    ,--0 Axinella_polypoides
+       |    |--14---0 Axinella_infundibuliformis
+       |    |        ,--0 Stylissa_carteri
+       `--22|   ,--11---0 Cymbaxinella_corrugata
+            |--3|   ,--31 Plenaster_craigi
+            |   `--3|   ,--8 Astrosclera_willeyana
+            |       `--3---0 Agelas_schmidti
+            |   ,--0 Haliclona_manglaris
+            |   |--0 Haliclona_implexiformis
+            |--4+--0 Chalinula_loosanoffi
+            |   |--0 Callyspongia_plicifera
+            |   `--6 Amphimedon_compressa
+            |        ,--6 Myceliospongia_araneosa
+            |   ,--22+--0 Microscleroderma_sp
+            |   |    `--0 Leiodermatium_sp
+            |   |   ,--0 Stelletta_fibrosa
+            |--5|   |--0 Poecillastra_laminaris
+            |   |   |--0 Neophrissospongia_sp.
+            |   `--2+--0 Geodia_neptuni
+            |       |--0 Dercitus_luteus
+            |       `--0 Cinachyrella_kuekanthali
+            |    ,--0 Suberites_ficus
+            |    |--0 Suberites_domuncula
+            |    |--0 Hymeniacidon_sinapium
+            |    |--0 Hymeniacidon_perlevis
+            |    |--0 Halichondria_panicea
+            |    |   ,--0 Halichondria_sp
+            |    |--6---0 Halichondria_okadai_NC037391
+            |    |    ,--0 Tethya_wilhelma
+            |    |    |--0 Tethya_sp_KU748128
+            `--18+--34+--0 Tethya_actinia
+                 |    `--0 Adreus_fascicularis
+                 |        ,--10 Cliona_varians
+                 |        |       ,--0 Spirastrella_cunctatrix
+                 |   ,--19|   ,--2---0 Diplastrella_bistellata
+                 |   |    `--0|   ,--0 Placospongia_intermedia
+                 |   |        `--2---0 Clionaopsis_sp
+                 |   |   ,--2 Tedania_ignis
+                 `--2|   |--4 Negombata_magnifica
+                     |   |--4 Lissodendoryx_colombiensis
+                     |   |--4 Iotrochota_birotulata
+                     |   |--18 Crambe_crambe
+                     `--6+--5 Clathria_curacaoensis
+                         |--6 Chondropsidae_MO1046
+                         |   ,--8 Phorbas_amaranthus
+                         |   |--4 Myxillina_cv2473337
+                         `--4+--0 Hymedesmia_sp_MO1058
+                             `--0 Crella_elegans
+ 
+WARNING: 
+File "77taxa_nt_strict.tre" already exists.  It will be overwritten. 
+ 
+Saved trees (Nexus format) to file 77taxa_nt_strict.tre 
+ 
+WARNING: 
+Existing tree-tags will be erased 
+ 
