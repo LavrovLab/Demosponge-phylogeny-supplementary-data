@@ -239,7 +239,7 @@ rnl trnE(uuc) nad6 trnY(gua) trnI(cau) cox2 trnL(uaa) trnK(uuu) atp8 atp6 trnR(u
 rnl trnE(uuc) nad6 trnY(gua) trnI(cau) cox2 trnL(uaa) trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnN(guu) cob trnS(gcu) trnI(gau) trnQ(uug) trnW(uca) atp9 nad4 trnH(gug) trnD(guc) nad3 trnR(ucg) nad4L cox1 trnS(uga) nad1 trnP(ugg) trnL(uag) trnC(gca) trnT(ugu) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e trnF(gaa) rns trnG(ucc) trnV(uac)
 
 >Thoosa_mismalolli
-rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnI(cau) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnM(cau) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnV(uac) 
+rnl cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) nad4 trnH(gug) trnE(uuc) nad6 nad3 trnR(ucg) nad4L cox1 trnS(uga) trnI(cau) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnM(cau) nad2 nad5 trnA(ugc) trnF(gaa) rns trnG(ucc) trnV(uac) 
 
 >Topsentia_ophiraphidites
 rnl nad4L trnR(ucg) trnS(uga) trnD(guc) trnC(gca) nad1 trnL(uaa) trnI(gau) trnY(gua) trnI(cau) trnM(cau) nad2 nad5 trnA(ugc) trnM(cau)e nad4 trnH(gug) trnE(uuc) nad6 nad3 cox1 cox2 trnK(uuu) atp8 atp6 trnR(ucu) cox3 trnQ(uug) trnW(uca) trnN(guu) trnL(uag) cob trnT(ugu) atp9 trnS(gcu) trnP(ugg) trnF(gaa) rns trnG(ucc) trnV(uac)
