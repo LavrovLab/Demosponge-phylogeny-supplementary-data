@@ -19,20 +19,20 @@ library(tcltk)
 
 ```{r}
 getwd()
-setwd("./MEMG/data")
+setwd("../data")
 data <- read_table(tk_choose.files(caption = "Choose data matrix"), col_names = FALSE)
+row.names(data) <- data$X1
+data <- data %>% select(-X1) #remove the column with gene names
 myLetters <- toupper(letters[1:26]) #This is a good idea, but it only works for 10 character states (0-9)
 data <- as.data.frame(lapply(data, function(x) match(x, myLetters)-1)) ## replacing letters by numbers; had to do -1 to start with 0
 taxa <- read_csv(tk_choose.files(caption = "Choose names of taxa"), col_names = FALSE)
 data <- as.data.frame(t(data)) ## transposing the matrix
 row.names(data) <- taxa$X1
-#View(data)
+View(data)
 #View(tdata)
 data <- rownames_to_column(data)
 #write_delim(data, path = "./tmatrix.csv", delim = " ", na = '?', col_names = FALSE)
-
-
-file="68taxa.tnt"
+file="85taxa.tnt"
 header=paste("xread\n", ncol(data) - 1," ", nrow(data), sep="")
 
 tnt_write <- function(x, file, header, f = write_delim, ...){
@@ -47,7 +47,7 @@ tnt_write <- function(x, file, header, f = write_delim, ...){
   writeLines(";",con=datafile)
 }
 
-tnt_write(data, file="68taxa.tnt", header, delim = " ", na = '?', col_names = FALSE) 
+tnt_write(data, file="85taxa.tnt", header, delim = " ", na = '?', col_names = FALSE) 
 ```
 
 
